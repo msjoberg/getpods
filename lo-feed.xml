@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+
+<channel>
+	<title>Linux Outlaws</title>
+	
+	<link>http://sixgun.org</link>
+	<description>Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner.</description>
+	<lastBuildDate>Sun, 18 Nov 2012 16:28:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+	<copyright>Copyright 2007-2011 Sixgun Productions</copyright>
+	<managingEditor>fab@sixgun.org</managingEditor>
+	<webMaster>fab@sixgun.org</webMaster>
+	<ttl>1440</ttl>
+	<image>
+		<url>http://sixgun.org/files/linuxoutlaws.jpg</url>
+		<title>Linux Outlaws</title>
+		<link>http://sixgun.org</link>
+		<width>144</width>
+		<height>144</height>
+	</image>
+	<itunes:subtitle>The hardest-hitting Linux podcast around</itunes:subtitle>
+	<itunes:summary>Two pragmatic geeks talk about the latest news concerning Linux, free and open technology or anything else they deem noteworthy which may include such absurd things as hockey or bands you never heard of. This means there's many a joke and derailed conversation along the way, so don't come here expecting only Linux or software freedom talk — just sit back and relax, partner.</itunes:summary>
+	<itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords>
+	
+	<itunes:author>Sixgun Productions</itunes:author>
+	
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>yes</itunes:explicit>
+	<itunes:image href="http://sixgun.org/files/linuxoutlaws.jpg" />
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/linuxoutlaws-ogg" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="linuxoutlaws-ogg" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Copyright 2007-2011 Sixgun Productions</media:copyright><media:thumbnail url="http://sixgun.org/files/linuxoutlaws.jpg" /><media:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><itunes:owner><itunes:email>linuxoutlaws@sixgun.org</itunes:email><itunes:name>Sixgun Productions</itunes:name></itunes:owner><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.podnova.com/add.srf?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.podnova.com/img_chicklet_podnova.gif">Subscribe with Podnova</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://odeo.com/listen/subscribe?feed=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://odeo.com/img/badge-channel-black.gif">Subscribe with ODEO</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2Flinuxoutlaws-ogg" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><item>
+		<title>Linux Outlaws 284 – Burning Poppies</title>
+		<link>http://sixgun.org/linuxoutlaws-284/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-284</link>
+		<comments>http://sixgun.org/linuxoutlaws-284/#comments</comments>
+		<pubDate>Sun, 18 Nov 2012 16:24:58 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=1269</guid>
+		<description><![CDATA[John McAfee wanted for murder, Mozilla Festival 2012 report, Fedora 19 release name voting, AMD lays of many of its open source developers, Oracle tries to piss off Red Hat, Brocade buys Vyatta, Linus on the Android kernel and a comeback of the Gaming Corner]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=f2J9Y96Xnlo">Uncut video version of this episode on YouTube</a></p>
+<p><strong>0:00:47 INTRODUCTION</strong></p>
+<ul>
+<li><strong>Breaking News:</strong> <a href="http://gizmodo.com/5959812/john-mcafee-wanted-for-murder">McAfee wanted for murder in Belize</a></li>
+<li><a href="http://www.northeastlinuxfest.org/">Northeast Linux Fest</a> is looking for speakers</li>
+<li>Dan&#8217;s Beer of the Week: <a href="http://www.ratebeer.com/beer/grafenwalder-premium-pils/22048/">Grafenwalder Pils</a></li>
+<li>Someone needs to sort out <a href="http://en.wikipedia.org/wiki/Linux_Outlaws">our Wikipedia entry</a></li>
+<li><a href="http://www.kent.police.uk/news/latest_news/121111_burning_poppy.html">Kent police arrests man for burning a fake poppy</a> — <a href="https://twitter.com/search?q=%23poppycock">#poppycock</a></li>
+<li>There will be no live show on Monday, we will be recording later in the week</li>
+</ul>
+<p><strong>0:22:34 REPORT FROM MOZFEST</strong></p>
+<p><strong> </strong>Fab attended the <a href="http://mozillafestival.org/">Mozilla Festival 2012</a> in London and gives his report.<strong><br />
+</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Mozilla-launches-Popcorn-Maker-1-0-1748133.html">Popcorn Maker 1.0</a></li>
+<li><a href="http://blog.mozilla.org/blog/2012/11/10/webmaker-badges/">Webmaker Badges</a></li>
+</ul>
+<div>
+<div id="attachment_1277" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/mozfest-blimp.jpg"><img class="size-medium wp-image-1277" title="Mozfest Blimp" src="http://sixgun.org/files/mozfest-blimp-250x166.jpg" alt="" width="250" height="166" /></a><p class="wp-caption-text">The Mozfest Blimp</p></div>
+</div>
+<p><strong>0:36:15 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/openSUSE-12-2-for-ARM-released-1744636.html">openSUSE 12.2 for ARM</a></li>
+<li>Development: <a href="http://www.h-online.com/open/news/item/Second-alpha-of-Mandriva-Linux-2012-dons-Moondrake-disguise-1745219.html">Mandriva 2012 Alpha 2</a></li>
+<li>Development: <a href="http://www.h-online.com/open/news/item/Linux-Mint-14-approaches-with-release-canddiate-1748023.html">Linux Mint 14 RC1</a></li>
+<li>Development: <a href="http://www.h-online.com/open/news/item/Enlightenment-releases-first-E17-alpha-1744374.html">First E17 alpha</a></li>
+<li>Development: <a href="http://www.h-online.com/open/news/item/Ruby-2-0-0-preview-arrives-1744547.html">Ruby 2.0.0 preview</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Security-issue-discovered-in-TOR-client-Update-1746884.html">TOR security issue</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Apple-and-HTC-settle-patent-dispute-over-Android-1748083.html">Apple and HTC settle all patent lawsuits</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Fedora-19-release-name-voting-period-opens-1747738.html">Fedora 19 release name voting</a></li>
+<li><a href="http://www.h-online.com/open/news/item/AMD-dismisses-numerous-open-source-developers-1745131.html">AMD lays off open source developers</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Oracle-releases-Git-repository-with-RHEL-changes-1748030.html">Oracle tries to piss off Red Hat with RedPatch</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Plone-releases-fixes-for-24-vulnerabilities-1744808.html">Plone vulnerabilities</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Brocade-to-acquire-Vyatta-1744509.html">Brocade acquires Vyetta</a></li>
+<li><a href="https://twitter.com/mjg59/status/266957007242788865">Matthew Garrett has quit his job for Red Hat</a></li>
+<li><a href="https://www.youtube.com/watch?v=iv1Z7bf4jXY">Ubuntu for Android marketing video</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Go-programming-language-turns-three-1748486.html">Go turns three</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Arduino-gets-piggyback-from-Raspberry-Pi-1744825.html">AlaMode backpacks an Arduino on a Raspberry Pi</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Mozilla-frees-up-15M-as-it-settles-with-US-taxman-1745230.html">Mozilla settles with the IRS</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Linus-Torvalds-The-Android-situation-is-improving-1745444.html">Linus Torvalds: The Android situation is improving</a></li>
+<li><a href="http://www.h-online.com/open/news/item/GNOME-team-decides-to-drop-fallback-mode-1747238.html">GNOME drops fallback mode</a></li>
+</ul>
+<p><strong>1:23:35 GAMING CORNER</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Valve-launches-Steam-beta-client-for-Linux-1745023.html">Steam for Linux is a go</a> and Fab has cheated his way in; a full report will be forthcoming</li>
+<li><em><a href="http://www.kickstarter.com/projects/1461411552/elite-dangerous">Elite: Dangerous</a></em> — Fab is a backer</li>
+</ul>
+<div>
+<div id="attachment_1280" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/elite-dangerous-concept.jpg"><img class="size-medium wp-image-1280" title="Elite: Dangerous Concept" src="http://sixgun.org/files/elite-dangerous-concept-250x159.jpg" alt="" width="250" height="159" /></a><p class="wp-caption-text">Concept art for <em>Elite: Dangerous</em></p></div>
+</div>
+<p><strong>1:30:35 FEEDBACK</strong></p>
+<p><strong></strong><strong>Supporters:</strong> We thank Remy van Elst and all Flattr’ers!</p>
+<ul>
+<li><strong>Neil</strong> had a long email discussion with Fab about Republicanism</li>
+<li><strong>Chris</strong> wanted to point us to a <a href="https://igurublog.wordpress.com/2012/11/05/gnome-et-al-rotting-in-threes/">ranty article about the state of GNOME 3</a></li>
+<li><strong>Kristin Morey</strong> enjoys the show and looks forward to it each week; she also tells us about working with her Chromebook CR-48 running Debian with KDE</li>
+<li><strong id="internal-source-marker_0.6712018689140677">Kuero</strong> says Fab should use one of his Raspberry Pis as a Bitcoin miner</li>
+</ul>
+<p><strong>Song:</strong> <a href="http://www.youtube.com/watch?v=6Sl6_UoY7lg"><em>A Drone Again, Naturally</em></a> by Drone Aircraft (all rights reserved)</p>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=1269&amp;md5=9b985ef93b44a508196b8ac2ad143402" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-284/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-284%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+284+%26%238211%3B+Burning+Poppies&amp;description=Uncut+video+version+of+this+episode+on+YouTube+0%3A00%3A47+INTRODUCTION+Breaking+News%3A+McAfee+wanted+for+murder+in+Belize+Northeast+Linux+Fest+is+looking+for+speakers+Dan%26%238217%3Bs+Beer+of+the+Week%3A...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://www.podtrac.com/pts/redirect.ogg/traffic.libsyn.com/linuxoutlaws/linuxoutlaws284.ogg" length="53781769" type="audio/ogg" />
+		<itunes:duration>1:44:46</itunes:duration>
+		<itunes:subtitle>John McAfee wanted for murder, Mozilla Festival 2012 report, Fedora 19 release name voting, AMD lays of many of its open source developers, Oracle tries to piss off Red Hat, Brocade buys Vyatta, Linus on the Android kernel and a comeback of the Gami[...]</itunes:subtitle>
+		<itunes:summary>John McAfee wanted for murder, Mozilla Festival 2012 report, Fedora 19 release name voting, AMD lays of many of its open source developers, Oracle tries to piss off Red Hat, Brocade buys Vyatta, Linus on the Android kernel and a comeback of the Gaming Corner</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://www.podtrac.com/pts/redirect.ogg/traffic.libsyn.com/linuxoutlaws/linuxoutlaws284.ogg" fileSize="53781769" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 283 – Remember, Remember</title>
+		<link>http://sixgun.org/linuxoutlaws-283/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-283</link>
+		<comments>http://sixgun.org/linuxoutlaws-283/#comments</comments>
+		<pubDate>Sun, 11 Nov 2012 23:22:45 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=1233</guid>
+		<description><![CDATA[Fab reviews the Kindle Paperwhite, Anonymous action on the Fifth of November, German Zollfahndung looking for malware coders, Ubuntu drops alphas and all but one beta, Android turns 5, Richard Stallman seeks to limit the scope of software patents and rooting doesn't void your warranty in the EU]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=jPccC7CLYRM">Uncut video version of this episode on YouTube</a></p>
+<p><strong>0:01:00 INTRODUCTION</strong></p>
+<ul>
+<li><a href="http://www.rollingstone.com/music/news/jay-z-and-bruce-springsteen-to-join-obama-on-final-day-of-campaign-20121101">Bruce and Jay-Z rally for Obama</a></li>
+</ul>
+<div>
+<div id="attachment_1239" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/springsteen-obama2012.png"><img class="size-medium wp-image-1239" title="Springsteen and Obama 2012" src="http://sixgun.org/files/springsteen-obama2012-250x166.png" alt="" width="250" height="166" /></a><p class="wp-caption-text">Barack Obama hugs Bruce Springsteen on the day before the election</p></div>
+</div>
+<ul>
+<li>Fab now has two Raspberry Pis he wants to use for Sixgun-related projects, thanks to <strong>Mike</strong>!</li>
+<li><a href="http://www.h-online.com/open/features/Seeking-Enlightenment-1739812.html">Fab interviewed Carsten &#8220;Rasterman&#8221; Haitzler on E17</a></li>
+<li>Dan recommends <a href="http://www.imdb.com/title/tt1034314/"><em>Iron Sky</em></a></li>
+</ul>
+<p><strong>0:17:59 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Tiny-Core-Linux-4-7-overhauls-the-OnDemand-system-1742276.html">Tiny Core 4.7</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Better-database-handling-for-DragonFly-BSD-3-2-1-1743162.html">DragonFly BSD 3.2.1</a></li>
+<li><a href="http://lwn.net/Articles/522963/rss">OpenBSD 5.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Virtualisation-toolkit-libvirt-reaches-version-1-0-0-1742585.html">libvirt 1.0.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Asterisk-11-arrives-with-long-term-support-1743016.html">Asterisk 11.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Ubuntu-Tweak-update-adds-12-10-Quantal-Quetzal-support-1743112.html">Ubuntu Tweak 0.8.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Bootstrap-2-2-becomes-more-flexible-with-new-templates-1739067.html">Bootstrap 2.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Sigil-EPUB-ebook-editor-0-6-0-released-1740603.html">Sigil 0.6.0</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Anonymous-at-work-in-5th-of-November-hacks-1743789.html">Anonymous at work on 5 November?</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Ocean-s-14-high-speed-bank-fraud-at-casinos-1741079.html">High-speed bank fraud at casinos</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Vupen-brags-about-Windows-8-hack-1742332.html">Vupen brags about Windows 8 exploit</a></li>
+<li><a href="http://www.h-online.com/security/news/item/German-Customs-Investigation-Bureau-seeks-trojan-programmers-1743025.html">German <em>Zollfahndung</em> looking for malware coders</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Telefonica-wants-to-turn-customer-data-into-cash-1739251.html">Telefónica wants to turn customer data into cash</a></li>
+<li><a href="http://www.h-online.com/open/news/item/LinuxCon-Europe-starts-with-new-and-upgraded-members-1743136.html">LinuxCon Europe starts with new and upgraded members</a></li>
+<li><a href="http://www.h-online.com/open/features/Comment-Ext4-bug-No-need-to-panic-1738995.html">More info on the ext4 bug</a>, <a href="http://www.h-online.com/open/news/item/Ext4-bug-patched-1741014.html">it’s patched now</a></li>
+<li><a href="http://www.h-online.com/open/news/item/State-of-Secure-Boot-detailed-1741460.html">Matthew Garrett details the current state of Secure Boot</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Ubuntu-No-more-alphas-just-one-beta-1740961.html">Ubuntu: No more alphas, just one beta</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Wikimedia-launches-Wikidata-and-reports-on-Wikipedia-Zero-1740974.html">Wikimedia launches Wikidata and reports on Wikipedia Zero</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Android-turns-5-years-old-1743735.html">Android turns 5</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Markdown-may-be-defined-as-a-standard-1739059.html">Markdown may become a standard</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Richard-Stallman-seeks-to-limit-the-scope-of-software-patents-1743619.html">Richard Stallman seeks to limit the scope of software patents</a></li>
+<li><a href="http://www.h-online.com/open/news/item/FSFE-Lawyers-Rooting-does-not-void-warranties-in-the-EU-1743756.html">Rooting does not void warranties in the EU</a></li>
+</ul>
+<p><strong>1:15:21 IN-DEPTH</strong></p>
+<p>Fab reviews the <a href="http://www.amazon.co.uk/gp/product/B007OZO03M/">wifi-only model of the Kindle Paperwhite</a>.</p>
+<div id="attachment_1255" class="wp-caption alignnone" style="width: 191px"><a href="http://sixgun.org/files/kindle-paperwhite.jpg"><img class="size-medium wp-image-1255" title="Kindle Paperwhite" src="http://sixgun.org/files/kindle-paperwhite-181x250.jpg" alt="" width="181" height="250" /></a><p class="wp-caption-text">The Kindle Paperwhite in a dark room</p></div>
+<p><strong>1:31:23 FEEDBACK</strong></p>
+<p>Supporters: Kristin Morey, Daniel Lowe and all Flattr’ers</p>
+<ul>
+<li>We had some <a href="https://plus.google.com/u/1/109190225417455514778/posts/RgyFbNGxAhZ">comments</a> from <strong>Stuart Langridge</strong> and <strong>Jono Bacon </strong>about Ubuntu on the Nexus 7; Jono also wrote a <a href="http://www.jonobacon.org/2012/10/26/ubuntu-core-on-the-nexus-7/">blog post</a> on the topic</li>
+<li>Fab had lots of discussions with people over eeminism after last week’s show</li>
+<li><strong>Tailzer </strong>sent on something from the NHS Open Source Skunkworks team; they apparently think iOS is open source</li>
+<li><strong>Ron McCy</strong> enjoyed Fab’s <a href="http://www.h-online.com/open/features/Seeking-Enlightenment-1739812.html">interview</a> with Carsten &#8220;Rasterman&#8221; Haitzler about E17</li>
+<li><strong>Jordan Mears</strong> enjoys the show and tells us about his personal open source project called <a href="https://github.com/jordoncm/cider/downloads">Cider</a>, which is a web-based IDE; he  just released <a href="http://www.finefrog.com/2012/11/02/cider-version-0-7-released/">version 0.7</a> and could use some user feedback</li>
+<li><strong>Jason Bowles</strong> says his wife does not like Android&#8217;s auto-completion</li>
+</ul>
+<p>We also had email from Ivan Pejić.</p>
+<p><strong>Song:</strong> <a href="http://www.jamendo.com/en/track/717626/aint-that-good-news"><em>Ain&#8217;t That Good News</em></a> from the album <a href="http://www.jamendo.com/en/list/a83695/drop-by-drop"><em>Drop By Drop</em></a> by <a href="http://www.myspace.com/danielberges">Daniel Berges &amp; The Windsurfers</a> (licensed <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0</a>)</p>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=1233&amp;md5=de50e7bad412e0b4792d0df0a1b9f758" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-283/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-283%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+283+%26%238211%3B+Remember%2C+Remember&amp;description=Uncut+video+version+of+this+episode+on+YouTube+0%3A01%3A00+INTRODUCTION+Bruce+and+Jay-Z+rally+for+Obama+Fab+now+has+two+Raspberry+Pis+he+wants+to+use+for+Sixgun-related+projects%2C+thanks...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://www.podtrac.com/pts/redirect.ogg/traffic.libsyn.com/linuxoutlaws/linuxoutlaws283.ogg" length="59824362" type="audio/ogg" />
+		<itunes:duration>1:58:42</itunes:duration>
+		<itunes:subtitle>Fab reviews the Kindle Paperwhite, Anonymous action on the Fifth of November, German Zollfahndung looking for malware coders, Ubuntu drops alphas and all but one beta, Android turns 5, Richard Stallman seeks to limit the scope of software patents an[...]</itunes:subtitle>
+		<itunes:summary>Fab reviews the Kindle Paperwhite, Anonymous action on the Fifth of November, German Zollfahndung looking for malware coders, Ubuntu drops alphas and all but one beta, Android turns 5, Richard Stallman seeks to limit the scope of software patents and rooting doesn't void your warranty in the EU</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://www.podtrac.com/pts/redirect.ogg/traffic.libsyn.com/linuxoutlaws/linuxoutlaws283.ogg" fileSize="59824362" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 282 – Lazy Unmount</title>
+		<link>http://sixgun.org/linuxoutlaws-282/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-282</link>
+		<comments>http://sixgun.org/linuxoutlaws-282/#comments</comments>
+		<pubDate>Sun, 04 Nov 2012 22:37:54 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=1185</guid>
+		<description><![CDATA[Skyfall, Ubuntu privacy problems, Ubuntu GNOME Remix, Google unveils Android 4.2 and three Nexus devices, the ext4 furor, Ada Initiative attacks Ted Ts'o because over comments, Ubuntu installer for the Nexus 7 and more]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=odn8Hqx79tg">Uncut video version of this episode on YouTube</a></p>
+<p><strong>0:01:10 INTRODUCTION</strong></p>
+<ul>
+<li>Our thoughts go out to those in Sandy country</li>
+</ul>
+<div>
+<div id="attachment_1189" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/aeroflot-sandy.png"><img class="size-medium wp-image-1189" title="Crazy Russians" src="http://sixgun.org/files/aeroflot-sandy-250x165.png" alt="" width="250" height="165" /></a><p class="wp-caption-text">Obviously, the Russians don&#8217;t give a fuck</p></div>
+</div>
+<ul>
+<li>Fab says <em>Skyfall</em> is awesome</li>
+<li>Speaking of Bond: <a href="http://en.wikipedia.org/wiki/Rachel_Ter_Horst">Rachel Ter Horst was in <em>GoldenEye</em></a></li>
+<li>Fab recommends you listen to <a href="http://botherer.org/tag/rum-doings/">Rum Doings</a>, it’s amazingly funny!</li>
+<li>The <a href="http://theindependentcharacters.com/">Independent Characters</a> are nominated for the <a href="http://www.podcastawards.com/">Podcast Awards</a> in the Gaming category, vote for them!</li>
+<li>Dan wrote a quick guide to <a href="http://danlynch.org/blog/2012/10/handcent/">pimping SMS on your Android phone</a></li>
+</ul>
+<p><strong>0:11:50 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/FreeNAS-8-3-adds-ZFS-version-28-1738277.html">FreeNAS 8.3</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Ubuntu-less-Unity-A-first-look-at-Ubuntu-GNOME-Remix-12-10-1733616.html">Ubuntu 12.10 GNOME Remix</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Cairo-Dock-3-1-with-improved-Unity-integration-1735874.html">Cairo-Dock 3.1</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Wayland-s-1-0-milestone-fixes-graphics-protocol-1734638.html">Wayland 1.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Git-1-8-0-can-access-Windows-and-GNOME-keyrings-1733879.html">Git 1.8.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Mono-3-0-facilitates-asynchronous-programming-1734829.html">Mono 3.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Latest-release-of-systemd-includes-time-based-log-rotation-1735258.html">systemd 195</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Sourcefabric-s-Airtime-2-2-gets-smart-blocks-1738645.html">Airtime 2.2</a></li>
+<li>Development: <a href="http://www.h-online.com/open/news/item/Firefox-beta-introduces-Social-API-with-Facebook-Messenger-1734250.html">Firefox introduces Social API</a></li>
+<li>Kindle Paperwhite review coming up from Fab</li>
+<li><a href="http://www.h-online.com/open/news/item/Exim-mail-servers-susceptible-to-DKIM-attacks-1737670.html">Exim mail server vulnerability</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Android-4-2-adds-multi-user-support-for-tablets-1738773.html">Google unveils Android 4.2 and three Nexus devices</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Raspberry-Pi-opens-its-ARM-graphics-code-1735262.html">Raspberry Pi graphics drivers open sourced</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Stable-Linux-kernel-hit-by-ext4-data-corruption-bug-Update-1736110.html">An ext4 bug</a> and its <a href="http://www.h-online.com/open/news/item/Consequences-of-the-ext4-bug-1738336.html">consequences</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Carbonite-buys-open-source-backup-provider-Zmanda-1733661.html">Carbonite buys Zmanda</a></li>
+<li><a href="http://www.h-online.com/open/news/item/W3C-publishes-Working-Draft-for-Push-API-1737314.html">W3C Push API draft</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Dell-donates-concept-ARM-server-to-the-ASF-1736523.html">Dell donates ARM concept server to the ASF</a></li>
+<li><a href="http://adainitiative.org/2012/10/open-source-software-open-to-all/">Ada Initiative goes off on Ted Ts’o for a two year old rape comment</a></li>
+<li><a href="http://www.h-online.com/security/news/item/The-25-worst-passwords-of-the-year-1736297.html">The 25 worst passwords of the year</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Ubuntu-installer-for-Nexus-7-launched-for-developers-1738110.html">Ubuntu installer for the Nexus 7</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Valve-kicks-off-Steam-on-Linux-beta-test-at-UDS-1738746.html">Steam for Linux beta</a> — actually, it&#8217;s just Steam for Ubuntu</li>
+<li><a href="https://www.eff.org/deeplinks/2012/10/privacy-ubuntu-1210-amazon-ads-and-data-leaks">The EFF warns of privacy problems with the Dash search in Ubuntu 12.10</a></li>
+</ul>
+<p><strong>1:20:56 FEEDBACK</strong></p>
+<p>Supporters: Gary Sellani, Kirk Richard Holz, Armin Krauss, Dorian Okrucinski, Evgeny Kuznetsov and everyone who Flattr&#8217;ed us.</p>
+<ul>
+<li><strong>B1ackCr0w</strong> praises <a href="http://www.macmillan.org.uk/">Macmillan Cancer Support</a></li>
+<li><strong>Remy van Elst</strong> requests a song by The Beards that we already played back in the day and also pimps his software project, <a href="https://raymii.org/cms/p_Bash_PHP_Server_Status_Monitor">a server monitor</a></li>
+<li><strong>Alex Benee</strong> reflects on Ubuntu&#8217;s release and features policy</li>
+<li><strong>Jesse</strong> wants us to explain what <a href="http://www.h-online.com/open/features/Control-Centre-The-systemd-Linux-init-system-1565543.html">systemd</a> is about</li>
+</ul>
+<p>We had other emails from Kerry and NYBill.</p>
+<ul>
+<li><a href="http://www.youtube.com/watch?v=6TiXUF9xbTo">Joss Whedon on Mitt Romney</a></li>
+</ul>
+<p><strong>Song:</strong> <a href="http://www.jamendo.com/en/track/14998/mustapha"><em>Mustapha</em></a> by <a href="http://www.myspace.com/urbancastlemagic">Urban Castle Magic</a> from the album <em><a href="http://www.jamendo.com/en/list/a2134/let-it-go">Let it GO!</a> </em>(licensed <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons BY-NC-SA 3.0</a>)</p>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=1185&amp;md5=f43b28a3d75eeea344154d414b1bc2fa" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-282/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-282%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+282+%26%238211%3B+Lazy+Unmount&amp;description=Uncut+video+version+of+this+episode+on+YouTube+0%3A01%3A10+INTRODUCTION+Our+thoughts+go+out+to+those+in+Sandy+country+Fab+says+Skyfall+is+awesome+Speaking+of+Bond%3A+Rachel+Ter+Horst...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws282.ogg" length="51656388" type="audio/ogg" />
+		<itunes:duration>1:42:15</itunes:duration>
+		<itunes:subtitle>Skyfall, Ubuntu privacy problems, Ubuntu GNOME Remix, Google unveils Android 4.2 and three Nexus devices, the ext4 furor, Ada Initiative attacks Ted Ts'o because over comments, Ubuntu installer for the Nexus 7 and more</itunes:subtitle>
+		<itunes:summary>Skyfall, Ubuntu privacy problems, Ubuntu GNOME Remix, Google unveils Android 4.2 and three Nexus devices, the ext4 furor, Ada Initiative attacks Ted Ts'o because over comments, Ubuntu installer for the Nexus 7 and more</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws282.ogg" fileSize="51656388" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 281 – Cheri, Cheri Lady</title>
+		<link>http://sixgun.org/linuxoutlaws-281/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-281</link>
+		<comments>http://sixgun.org/linuxoutlaws-281/#comments</comments>
+		<pubDate>Sun, 28 Oct 2012 15:44:18 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=1162</guid>
+		<description><![CDATA[We catch up on a whole lot of news, including Google's earning fiasco, the Cover Art Archive, Fedora retiring Smolt, OSI and OSHWA settling their logo dispute, NVIDIA controversy about GPL symbols and much more...]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=tgFM65PU9oA">Uncut video version of this episode on YouTube</a></p>
+<p><strong>0:01:00 INTRODUCTION</strong></p>
+<ul>
+<li>Following on from our Ubuntu 12.10 review show, we have quite a lot of news</li>
+</ul>
+<p><strong>0:03:47 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/NetBSD-6-0-released-with-initial-Raspberry-Pi-support-1731897.html">NetBSD 6.0</a></li>
+<li>Firefox 16: <a href="http://www.h-online.com/open/news/item/Firefox-16-released-with-powerful-developer-tools-1726606.html">released</a>, <a href="http://www.h-online.com/open/news/item/Mozilla-pulls-Firefox-16-over-privacy-problem-Update-1727562.html">pulled</a>, <a href="http://www.h-online.com/open/news/item/Firefox-16-re-released-fixing-multiple-vulnerabilities-1728382.html">re-released</a></li>
+<li>Development: <a href="http://www.h-online.com/open/news/item/Firefox-Marketplace-launched-on-Android-1732768.html">Firefox Marketplace</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Rust-0-4-stabilises-language-syntax-1730375.html">Rust 0.4</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Piwik-1-9-adds-Transitions-view-and-GeoIP-integration-1730760.html">Piwik 1.9</a></li>
+<li><a href="http://www.h-online.com/open/news/item/VLC-Media-Player-2-0-4-supports-Opus-decoding-1732091.html">VLC 2.0.4</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Canonical-releases-web-interface-for-Juju-1731186.html">Juju web interface</a> — open source, from Canonical</li>
+<li><a href="http://www.h-online.com/open/news/item/Ubuntu-Tweak-0-8-brings-back-Apps-functionality-1726432.html">Ubuntu Tweak 0.8</a> — although <a href="http://blog.ubuntu-tweak.com/2012/10/19/the-development-of-ubuntu-tweak-is-stopped.html">it is now dead</a></li>
+<li>Development: <a href="http://www.h-online.com/open/news/item/Mesa-9-0-develops-OpenGL-3-1-support-1726049.html">Mesa 9.0</a></li>
+<li><a href="http://www.h-online.com/security/news/item/miniFlame-the-Flame-trojan-s-little-brother-1731705.html">miniFlame</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Pwnium-2-Full-Chrome-exploit-earns-hacker-60-000-1727282.html">Pinkie Pie does it again at Pwnium 2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/US-patent-protects-DRM-system-for-3D-printing-1729518.html">US patent on DRM system for 3D printers</a></li>
+<li><a href="http://www.irishtimes.com/newspaper/breaking/2012/1018/breaking54.html">Google fucks up announcing their (bad) quarterly results, causing shares to take a nosedive</a></li>
+<li><a href="http://www.h-online.com/open/news/item/MusicBrainz-and-Internet-Archive-create-cover-art-database-1727322.html">Cover Art Archive announced</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Mandriva-Foundation-gets-a-name-Update-1729738.html">Mandriva Foundation gets a name</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Fedora-is-retiring-Smolt-hardware-census-1727859.html">Fedora retires Smolt</a></li>
+<li><a href="http://www.h-online.com/open/news/item/OSI-and-OSHWA-agree-on-logo-usage-1731934.html">OSI and OSHWA settle dispute over logo</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Apache-OpenOffice-now-a-top-level-project-1732188.html">OpenOffice now a top level project of the ASF</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Raspberry-Pi-gets-its-memory-doubled-1729489.html">Raspberry Pi now with double memory</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Google-announces-new-ARM-based-Chromebooks-1732954.html">Google announces ARM Chromebooks</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Linux-Foundation-presents-Secure-Boot-solution-1727930.html">Linux Foundation presents Secure Boot solution</a>; also see <a href="http://faif.us/cast/2012/sep/27/0x32/">FaiF 0&#215;32</a></li>
+<li><a href="http://www.h-online.com/open/news/item/NVIDIA-wants-to-remove-GPL-marker-from-Linux-interface-1729053.html">NVIDIA wants to remove GPL markers from the Linux interface</a></li>
+<li>Fedora is <a href="http://www.h-online.com/open/news/item/Fedora-shuffles-beta-back-another-week-1726420.html">delayed</a> and <a href="http://www.h-online.com/open/news/item/Fedora-18-delayed-by-another-week-1731228.html">delayed again</a></li>
+</ul>
+<p><strong>1:01:37 MICROWATCH</strong></p>
+<ul>
+<li><a href="http://online.wsj.com/article/SB10000872396390444868204578064962968071002.html">Microsoft’s profits fall 22%</a></li>
+<li><a href="http://www.zdnet.com/nokia-q3-by-the-numbers-7000005908/">Nokia’s numbers are shit too</a></li>
+</ul>
+<p><strong>1:07:43 FEEDBACK</strong></p>
+<p><strong> </strong>Supporters: Thanks to Rob Hall, David Guest, Yosi Shibberu, Matt Kraai and all the flattr’ers for stepping up!</p>
+<ul>
+<li><strong>Alan Bailward</strong> tells us we got the facts on Tim Cook&#8217;s <a href="http://www.apple.com/letter-from-tim-cook-on-maps/">apology</a> for the Apple Maps fiasco wrong</li>
+<li><strong>Paula Graham </strong>sends a message via <strong>Les Pounder</strong> about the <a href="http://www.flossie.org/?page_id=596">FLOSS Talent Women&#8217;s Career Taster</a> from Flossie</li>
+<li><strong>Gary</strong> tells us about the <a href="https://www.meetbsd.com/">meetBSD</a> conference in California on 3 &amp; 4 November</li>
+</ul>
+<div>
+<div id="attachment_1172" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/cheri-cheri-lady.png"><img class="size-medium wp-image-1172" title="Cheri, Cheri Lady" src="http://sixgun.org/files/cheri-cheri-lady-250x174.png" alt="" width="250" height="174" /></a><p class="wp-caption-text">The horror&#8230;. the horror!!</p></div>
+</div>
+<ul>
+<li><strong>Uwe Schuerkamp</strong> writes from imaginary Bielefeld about <a href="http://blue-systems.com/">Blue Systems</a></li>
+<li><strong>Sergei Van Hardeveld</strong> wrote to us about the Humble eBook Bundle (which is now over)</li>
+</ul>
+<p>We also had an email from Keith Z-G.</p>
+<p><strong>Song: </strong><a href="http://www.jamendo.com/en/track/655802/nanowar"><em>Nanowar</em></a> from the album <a href="http://www.jamendo.com/en/list/a75948/into-gay-pride-ride"><em>Into Gay Pride Ride</em></a> by <a href="http://www.nanowar.it/">Nanowar</a> (licensed under a Creative Commons licence)</p>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=1162&amp;md5=0c2fdb9dd94963f6094dfe4566d6a2cd" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-281/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-281%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+281+%26%238211%3B+Cheri%2C+Cheri+Lady&amp;description=Uncut+video+version+of+this+episode+on+YouTube+0%3A01%3A00+INTRODUCTION+Following+on+from+our+Ubuntu+12.10+review+show%2C+we+have+quite+a+lot+of+news+0%3A03%3A47+RELEASES+%26amp%3B+NEWS+NetBSD...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws281.ogg" length="44424928" type="audio/ogg" />
+		<itunes:duration>1:28:32</itunes:duration>
+		<itunes:subtitle>We catch up on a whole lot of news, including Google's earning fiasco, the Cover Art Archive, Fedora retiring Smolt, OSI and OSHWA settling their logo dispute, NVIDIA controversy about GPL symbols and much more...</itunes:subtitle>
+		<itunes:summary>We catch up on a whole lot of news, including Google's earning fiasco, the Cover Art Archive, Fedora retiring Smolt, OSI and OSHWA settling their logo dispute, NVIDIA controversy about GPL symbols and much more...</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws281.ogg" fileSize="44424928" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 280 – Rusty Ringpiece</title>
+		<link>http://sixgun.org/linuxoutlaws-280/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-280</link>
+		<comments>http://sixgun.org/linuxoutlaws-280/#comments</comments>
+		<pubDate>Mon, 22 Oct 2012 00:08:05 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=1129</guid>
+		<description><![CDATA[We bring you the latest Ubuntu news, including Fab's review of the recently released Ubuntu 12.10 "Quantal Quetzal". WARNING: Contains rants!]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=cYz9pgIP_RI">Uncut video version of this episode on YouTube</a></p>
+<p><strong>UBUNTU NEWS SPECIAL</strong></p>
+<p>In this show, we bring you the latest Ubuntu news and Fab gives his review of Ubuntu 12.10 &#8220;Quantal Quetzal&#8221;. We also discuss Mark Shuttleworth&#8217; latest blogging spree.</p>
+<ul>
+<li><a href="http://www.h-online.com/open/features/What-s-new-in-Ubuntu-Desktop-12-10-1730978.html">Fab&#8217;s in-depth review of Ubuntu 12.10 on The H</a></li>
+</ul>
+<div>
+<div id="attachment_1135" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/rachel-ter-horst.png"><img class="size-medium wp-image-1135" title="Rachel Ter Horst" src="http://sixgun.org/files/rachel-ter-horst-250x177.png" alt="" width="250" height="177" /></a><p class="wp-caption-text">Miss Ter Horst would like to help you with that command line business</p></div>
+</div>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Canonical-includes-Donations-screen-in-Ubuntu-1726852.html">Ubuntu donation page</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Ubuntu-13-04-named-after-a-raccoon-1732346.html">Ubuntu 13.04 named after a raccoon</a></li>
+</ul>
+<div id="attachment_1134" class="wp-caption alignnone" style="width: 186px"><a href="http://sixgun.org/files/kharn.jpg"><img class="size-medium wp-image-1134" title="Khârn the Betrayer" src="http://sixgun.org/files/kharn-176x250.jpg" alt="" width="176" height="250" /></a><p class="wp-caption-text">Fab has a bit of a rant&#8230;</p></div>
+<ul>
+<li><a href="http://www.markshuttleworth.com/archives/1200">Shuttleworth blogs</a></li>
+<li>&#8230;and then <a href="http://www.markshuttleworth.com/archives/1207">backpaddles</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Shuttleworth-Secret-development-of-13-04-s-Tada-features-Update-1732813.html">Commentary on the blog post before he rephrased parts of it</a></li>
+</ul>
+<p><strong>Song: </strong><em><a href="http://www.youtube.com/watch?v=RUbp_d2DkYU">Code Monkey (Slashdot 15th Birthday Edition)</a> </em>by <a href="http://www.jonathancoulton.com/">Jonathan Coulton</a> (all rights reserved)</p>
+<p id="watch-headline-title">
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=1129&amp;md5=548700bf3abe73086094bfbce8aab285" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-280/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-280%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+280+%26%238211%3B+Rusty+Ringpiece&amp;description=Uncut+video+version+of+this+episode+on+YouTube+UBUNTU+NEWS+SPECIAL+In+this+show%2C+we+bring+you+the+latest+Ubuntu+news+and+Fab+gives+his+review+of+Ubuntu+12.10+%26%238220%3BQuantal...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws280.ogg" length="31487507" type="audio/ogg" />
+		<itunes:duration>1:05:02</itunes:duration>
+		<itunes:subtitle>We bring you the latest Ubuntu news, including Fab's review of the recently released Ubuntu 12.10 "Quantal Quetzal". WARNING: Contains rants!</itunes:subtitle>
+		<itunes:summary>We bring you the latest Ubuntu news, including Fab's review of the recently released Ubuntu 12.10 "Quantal Quetzal". WARNING: Contains rants!</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws280.ogg" fileSize="31487507" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 279 – Double Oh Seventy</title>
+		<link>http://sixgun.org/linuxoutlaws-279/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-279</link>
+		<comments>http://sixgun.org/linuxoutlaws-279/#comments</comments>
+		<pubDate>Sat, 13 Oct 2012 22:43:29 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=1109</guid>
+		<description><![CDATA[Mass extinction in World of Warcraft, epic trollage of a security magazine, Red Hat crop circles, Oracle appeals Java case against Google, Blue Systems hires another KDE developer and Jolla patents the shit out of MeeGo]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=IBFg5IbmaR8">Uncut video version of this episode on YouTube</a></p>
+<p><strong>0:01:29 INTRODUCTION</strong></p>
+<ul>
+<li>Apparently we are <a href="http://goo.gl/O3rN5">nominated</a> for the European Podcast Awards</li>
+<li><a href="http://www.h-online.com/open/features/The-open-GSM-future-arrives-1723580.html">Hands on with Harald Welte’s open GSM base station</a></li>
+<li><a href="http://untappd.com/user/fabsh">Fab logs beers on Untappd</a></li>
+</ul>
+<p><strong>0:13:25 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Debian-6-0-6-is-available-1722216.html">Debian 6.0.6</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Arch-Linux-switches-to-systemd-1725090.html">Arch Linux 2012.10.06</a></li>
+<li><a href="http://www.h-online.com/open/news/item/First-release-candidate-for-openSUSE-on-ARM-arrives-1721843.html">First release candidate for openSUSE on ARM</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Blender-2-64-improves-green-screen-and-compositing-1722809.html">Blender 2.64</a></li>
+<li><a href="http://www.h-online.com/open/news/item/HTTP-streams-to-the-screen-with-MythTV-0-26-1722462.html">MythTV 0.26</a></li>
+<li><a href="http://www.h-online.com/open/news/item/FFmpeg-reaches-1-0-1721974.html">FFmpeg 1.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Banshee-2-6-delivers-Mac-OS-X-improvements-1723214.html">Banshee 2.6</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Mozilla-previews-Firefox-Metro-for-Windows-8-1723694.html">Firefox “Metro” preview</a></li>
+<li><a href="http://www.h-online.com/security/news/item/NIST-names-Keccak-hashing-algorithm-as-SHA-3-1722490.html">NIST names Keccak as SHA-3</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Android-malware-creates-3D-maps-of-rooms-1722353.html">Android malware can create 3D maps of rooms</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Lost-Found-an-embarrasing-hoax-Sophos-s-false-alarm-and-new-tools-1725167.html">NMAP dev trolls pesky security magazine</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Mass-extinction-hack-hits-World-of-Warcraft-1725611.html">Mass extinction hack hits World of Warcraft</a></li>
+<li><a href="https://plus.google.com/110354677618404479074/posts/agvnXg5EKtY">Red Hat crop circles</a></li>
+</ul>
+<div>
+<div id="attachment_1114" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/red-hat-crop-circles.jpg"><img class="size-medium wp-image-1114" title="Red Hat Crop Circles" src="http://sixgun.org/files/red-hat-crop-circles-250x118.jpg" alt="" width="250" height="118" /></a><p class="wp-caption-text">What the fuck is an &#8220;enterpriser&#8221;?</p></div>
+</div>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Oracle-appeals-Android-infringement-case-1724216.html">Oracle appeals Google/Java case</a></li>
+<li><a href="http://www.h-online.com/open/news/item/64-bit-ARM-support-merged-into-Linux-kernel-1721911.html">64-bit ARM support coming to the kernel</a></li>
+<li><a href="http://news.softpedia.com/news/Wii-Balance-Board-Supported-by-Linux-Kernel-3-7-296291.shtml">Wii Balance Board support in the kernel</a></li>
+<li>JavaOne 2012: <a href="http://www.h-online.com/open/news/item/JavaOne-2012-Oracle-outlines-its-Java-plans-1722268.html">Oracle’s plan for Java in the next year</a></li>
+<li><a href="http://www.h-online.com/open/news/item/JBoss-seeks-new-name-for-community-edition-1722434.html">JBoss is looking for a new name for its community edition</a></li>
+<li><a href="http://www.h-online.com/open/news/item/MeeGo-to-return-next-month-with-Jolla-phone-launch-1722465.html">Jolla wants to bring back MeeGo</a></li>
+<li><a href="http://openbsd.org/lyrics.html">New OpenBSD release song slags off Linux</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Samsung-contributes-F2FS-NAND-filesystem-to-Linux-1725277.html">Samsung contributes F2FS NAND filesystem to Linux</a></li>
+<li><a href="http://www.h-online.com/open/news/item/KWin-maintainer-to-join-Blue-Systems-1725221.html">KWin maintainer goes to Blue Systems</a></li>
+</ul>
+<div id="attachment_1115" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/blue-systems-hq.png"><img class="size-medium wp-image-1115" title="Blue Systems HQ" src="http://sixgun.org/files/blue-systems-hq-250x162.png" alt="" width="250" height="162" /></a><p class="wp-caption-text">The Blue Systems HQ on Street View</p></div>
+<p><strong>1:13:00 FEEDBACK</strong></p>
+<p>Supporters: Rafael Hart, Kerry O’Brien and everyone who flattr’d us</p>
+<ul>
+<li><strong>Michael Harker</strong> is a Windows user learning about Linux and just discovered our show</li>
+<li><strong>Sam Ross</strong> sends us a picture of a very cool <em>Castle</em> apron</li>
+</ul>
+<div>
+<div id="attachment_1118" class="wp-caption alignnone" style="width: 197px"><a href="http://sixgun.org/files/writer-apron.jpg"><img class="size-medium wp-image-1118" title="Writer Apron" src="http://sixgun.org/files/writer-apron-187x250.jpg" alt="" width="187" height="250" /></a><p class="wp-caption-text">The most epic apron ever</p></div>
+</div>
+<ul>
+<li><strong>Allison Chaiken</strong> brings up quantum computing again, it seems she knows quite a bit about it</li>
+<li>We also had a nice email from <strong>Kerry</strong> who is a new listener and enjoys the show</li>
+</ul>
+<p><strong>Song:</strong> <em>Crystals</em> by <a href="http://www.professorkliq.com/">Professor Kliq</a> from the album <em><a href="http://soundcloud.com/professorkliq/sets/curriculum-vitae/">Curriculum Vitae</a> </em>(licensed <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA 3.0</a>)</p>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=1109&amp;md5=83924e074a89a96d94dfe3a8e6a4f9f9" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-279/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-279%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+279+%26%238211%3B+Double+Oh+Seventy&amp;description=Uncut+video+version+of+this+episode+on+YouTube+0%3A01%3A29+INTRODUCTION+Apparently+we+are+nominated+for+the+European+Podcast+Awards+Hands+on+with+Harald+Welte%E2%80%99s+open+GSM+base+station+Fab+logs...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws279.ogg" length="45816574" type="audio/ogg" />
+		<itunes:duration>1:31:21</itunes:duration>
+		<itunes:subtitle>Mass extinction in World of Warcraft, epic trollage of a security magazine, Red Hat crop circles, Oracle appeals Java case against Google, Blue Systems hires another KDE developer and Jolla patents the shit out of MeeGo</itunes:subtitle>
+		<itunes:summary>Mass extinction in World of Warcraft, epic trollage of a security magazine, Red Hat crop circles, Oracle appeals Java case against Google, Blue Systems hires another KDE developer and Jolla patents the shit out of MeeGo</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws279.ogg" fileSize="45816574" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 278 – Klingon Style</title>
+		<link>http://sixgun.org/linuxoutlaws-278/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-278</link>
+		<comments>http://sixgun.org/linuxoutlaws-278/#comments</comments>
+		<pubDate>Thu, 04 Oct 2012 22:55:40 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=1060</guid>
+		<description><![CDATA[A metric ton of releases, Adobe releases another open font, Ubuntu runs into trouble with Amazon advertising in their menus, Neil Young creates his own media player, a new Blender movie is released, CyanogenMod gets its own update manager and much more]]></description>
+			<content:encoded><![CDATA[<p>Uncut video version of this episode on YouTube: <a href="http://youtu.be/b1eKR3NNDXw">Part 1</a> &amp; <a href="http://youtu.be/4SQUXlvQ4xM">Part 2</a></p>
+<p><strong>0:01:33 INTRODUCTION</strong></p>
+<ul>
+<li>Fab got hit by the flu and missed Barcamp Blackpool, we also skipped a show because of this</li>
+<li><a href="https://www.facebook.com/permalink.php?story_fbid=477779002256968&amp;id=139652459402959">Rest in Peace Michael O’Hare</a></li>
+</ul>
+<div id="attachment_1064" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/michael-ohare.jpg"><img class="size-medium wp-image-1064" title="Michael O'Hare" src="http://sixgun.org/files/michael-ohare-250x230.jpg" alt="" width="250" height="230" /></a><p class="wp-caption-text">Michael O&#8217;Hare as Commander Jeffrey Sinclair in Babylon 5</p></div>
+<ul>
+<li>We completely missed the 5th birthday of the show on 12 September — half a decade of <em>Linux Outlaws!</em></li>
+<li>Karen Sandler from <a href="http://faif.us/">FaiF</a> had a baby — congratulations!</li>
+<li><a href="http://youtu.be/1IZYw-OU6ac">OggCamp documentary trailer</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Fortschritte-beim-Quantencomputing-1720513.html">Apparently quantum computing is a thing</a> (German link)</li>
+<li><a href="http://h-online.com">The H</a> is looking for a fulltime writer (position based in London)</li>
+</ul>
+<p><strong>0:14:27 FEATURE CONTENT: BARCAMP BLACKPOOL</strong></p>
+<p>Dan recaps his day <a href="http://barcampblackpool.com/">Barcamp Blackpool</a> this year. This includes a run-in with a vending machine, strangely enough.</p>
+<p><strong>0:24:35 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/features/What-s-new-in-Linux-3-6-1714690.html">Linux 3.6</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Slackware-14-0-Linux-distribution-has-arrived-update-1720515.html">Slackware 14</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Fedora-18-Alpha-released-with-new-installer-UI-1710213.html">Fedora 18 Alpha</a></li>
+<li><a href="http://www.h-online.com/open/news/item/First-alpha-of-Mandriva-Linux-2012-now-available-1711581.html">Mandriva 2012 Alpha</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Second-and-final-beta-of-Ubuntu-12-10-arrives-1719753.html">Ubuntu 12.10 Beta 2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Open-webOS-1-0-is-ready-1720508.html">Open webOS 1.0</a></li>
+<li><a href="http://www.h-online.com/open/features/First-Look-GNOME-3-6-1719235.html">GNOME 3.6</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Cinnamon-1-6-released-with-workspace-improvements-1711176.html">Cinnamon 1.6</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Unity-6-6-arrives-is-headed-for-Ubuntu-12-10-1714485.html">Unity 6.6</a> — featuring <a href="http://www.h-online.com/open/news/item/Canonical-defends-Ubuntu-12-10-s-integrated-Amazon-search-1715846.html">controversy</a> and <a href="http://www.h-online.com/open/news/item/Ubuntu-s-Amazon-search-feature-gets-kill-switch-1718733.html">backpaddling</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Python-3-3-0-released-1720714.html">Python 3.3.0</a> — the moratorium has ended, new features</li>
+<li><a href="http://www.h-online.com/open/news/item/GStreamer-1-0-released-1716578.html">GStreamer 1.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Xen-4-2-brings-new-default-tool-stack-1710320.html">Xen 4.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/OpenStack-s-Folsom-released-1719793.html">OpenStack Folsom</a></li>
+<li><a href="http://www.h-online.com/open/news/item/GeeXboX-3-0-adds-live-TV-functionality-1714957.html">GeeXboX 3.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Adobe-s-new-open-source-font-for-coding-1718882.html">Source Code Pro</a> from Adobe</li>
+<li><a href="http://www.h-online.com/security/news/item/Adobe-hacked-and-exploited-1719955.html">Adobe hacked and exploited</a></li>
+<li><a href="http://www.h-online.com/open/news/item/phpMyAdmin-distributed-with-backdoor-1717644.html">phpMyAdmin distributed with backdoor</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Android-smartphones-USSD-calls-can-kill-SIM-cards-1719230.html">Android smartphone USSD problem</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Researchers-unravel-Flame-s-secrets-1710693.html">Researchers unravel Flame trojan</a></li>
+<li><a href="http://www.h-online.com/security/news/item/WhatsApp-threatens-legal-action-against-API-developers-1716912.html">WhatsApp threatens API developers with legal action</a></li>
+<li><a href="http://www.irongeek.com/i.php?page=videos/derbycon2/2-1-1-jason-scott-rescuing-the-prince-of-persia-from-the-sands-of-time">Rescuing the original Prince of Persia source code</a></li>
+<li><a href="http://www.theverge.com/2012/9/28/3422018/neil-young-pono-audiophile-music-player-prototype-on">Neil Young creates his own music player</a> — but apparently it’s BS, <a href="http://people.xiph.org/~xiphmont/demo/neil-young.html">according to Xiph</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Bitcoin-Foundation-launched-1719289.html">Bitcoin Foundation launched</a></li>
+<li>New Blender Movie: <a href="http://www.tearsofsteel.org/">Tears of Steel</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Automotive-manufacturers-gear-up-for-open-source-push-1711638.html">Automotive Linux Summit</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Dice-Holdings-acquires-Slashdot-and-SourceForge-1711181.html">Dice Holdings acquires Slashdot &amp; SourceForge from Geeknet</a></li>
+<li><a href="http://www.androidnext.de/schwerpunkt/codeworkx-interview-galaxy-s3/">Apparently all that “Samsung will help the CyanogenMod guys” talk was just PR</a> (German link)</li>
+<li><a href="http://www.h-online.com/open/news/item/Intel-planning-Clover-Trail-variant-for-Linux-1711299.html">Intel is planning a Clover Trail variant for Linux</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Rackspace-hands-OpenStack-over-to-independent-foundation-1711791.html">OpenStack now governed by a foundation</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Ubuntu-will-use-GRUB-2-for-its-Secure-Boot-implementation-1714232.html">Ubuntu will not switch away from GRUB for UEFI boot</a></li>
+<li><a href="http://www.h-online.com/open/news/item/CyanogenMod-is-getting-its-own-OTA-update-manager-1721107.html">CyanogenMod gets its own update manager</a></li>
+</ul>
+<p><strong>1:31:30 MICROWATCH</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Microsoft-and-Xamarin-collaborate-on-Azure-Mobile-Services-1714857.html">Microsoft and Xamarin collaborate on Azure Mobile Services</a></li>
+<li><a href="http://news.cnet.com/8301-10797_3-57522484-235/minecraft-maker-says-he-wont-certify-his-game-for-windows-8/">Notch says fuck the Windows 8 app store</a>; <a href="http://techcrunch.com/2012/09/29/windows-store-metro-mode-no-sideloading-psa/">background on the Windows 8 app store requirements</a></li>
+</ul>
+<p><strong>1:37:56 CRAPPLEWATCH</strong></p>
+<ul>
+<li><a href="http://news.cnet.com/8301-13579_3-57523135-37/apple-backtracks-on-most-powerful-map-app-claim/">The Great iOS 6 mapping disaster</a></li>
+</ul>
+<p><strong>1:42:39 FEEDBACK</strong></p>
+<p><strong> </strong>Supporters: Mark McNeill, Kai Siers, Timothy Pope, Evgeny Kuznetsov and everyone who flattred us</p>
+<ul>
+<li><strong>Alexander Logvinov</strong> and <strong>JLarky</strong> write to us about our discussion of the Pussy Riot case</li>
+<li><strong>Yannick Mauray </strong>from <a href="http://www.euterpia-radio.fr/">Euterpia Radio</a> tells us about Tusaï, his Linux From Scratch distro inspired by our show</li>
+<li><strong>Eliad</strong> tells us about the history of the Clementine audio player</li>
+<li><strong>Bernd Schlapsi</strong> tells us that <a href="http://blog.gpodder.org/2012/09/gpodder-330-intermission-released.html">gPodder 3.3.0 is out</a> and also mentions the <a href="http://blog.gpodder.org/2012/09/gpodder-2202-uniblab-released.htm">gPodder 2.20.2 bugfix release</a></li>
+</ul>
+<p>We had other emails from: Daniel Hartley and Steve Cook.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=CayMeza487M">Klingon Style</a></li>
+</ul>
+<div>
+<div id="attachment_1081" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/klingon-style.png"><img class="size-medium wp-image-1081" title="Klingon Style" src="http://sixgun.org/files/klingon-style-250x123.png" alt="" width="250" height="123" /></a><p class="wp-caption-text">Oppan Klingon Style!</p></div>
+</div>
+<p><strong>Song: </strong><em><a href="http://www.jamendo.com/en/track/959592/water-in-the-creek">Water In The Creek</a></em> by <a href="http://www.joshwoodward.com/">Josh Woodward</a> from the album <em><a href="http://www.jamendo.com/en/list/a112820/the-wake">The Wake</a></em> (licensed <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons BY 3.0</a>)</p>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=1060&amp;md5=872040b0df347a55c415e26b9001736c" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-278/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-278%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+278+%26%238211%3B+Klingon+Style&amp;description=Uncut+video+version+of+this+episode+on+YouTube%3A+Part+1+%26amp%3B+Part+2+0%3A01%3A33+INTRODUCTION+Fab+got+hit+by+the+flu+and+missed+Barcamp+Blackpool%2C+we+also+skipped+a+show...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws278.ogg" length="64282352" type="audio/ogg" />
+		<itunes:duration>2:08:53</itunes:duration>
+		<itunes:subtitle>A metric ton of releases, Adobe releases another open font, Ubuntu runs into trouble with Amazon advertising in their menus, Neil Young creates his own media player, a new Blender movie is released, CyanogenMod gets its own update manager and much m[...]</itunes:subtitle>
+		<itunes:summary>A metric ton of releases, Adobe releases another open font, Ubuntu runs into trouble with Amazon advertising in their menus, Neil Young creates his own media player, a new Blender movie is released, CyanogenMod gets its own update manager and much more</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws278.ogg" fileSize="64282352" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 277 – Digital Originals</title>
+		<link>http://sixgun.org/linuxoutlaws-277/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-277</link>
+		<comments>http://sixgun.org/linuxoutlaws-277/#comments</comments>
+		<pubDate>Fri, 21 Sep 2012 00:23:07 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=1032</guid>
+		<description><![CDATA[GoDaddy fail, German Federal Commissioner prevented from looking at federal malware, Google threatens Acer, KindleBerry Pi, Red Hat uses the GPL to fight back in a patent lawsuit and we interview Kevin O’Brien about the Ohio Linux Fest]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=aiEboyizKYs">Uncut video version of this episode on YouTube</a></p>
+<p><strong>0:00:57 INTRODUCTION</strong></p>
+<ul>
+<li>Some current affairs talk: The Royals are suing over a bunch of breasts, the whole muslim world is in flames over a stupid film and it seems like that the case against Assange is getting slimmer by the minute</li>
+</ul>
+<blockquote class="twitter-tweet"><p>&#8220;Lawyer calls for digital originals of topless photos to be handed over&#8221; What exactly is a &#8220;digital original&#8221;? I can hear @<a href="https://twitter.com/jeffjarvis">jeffjarvis</a> rant.</p>
+<p>— Fabian A. Scherschel (@fabsh) <a href="https://twitter.com/fabsh/status/247737232235036672" data-datetime="2012-09-17T16:42:13+00:00">September 17, 2012</a></p></blockquote>
+<p>&nbsp;</p>
+<ul>
+<li>It is the one year anniversary of Occupy Wall Street; <a href="http://www.rollingstone.com/music/pictures/occupy-wall-street-celebrates-anniversary-with-concert-20120917">The Nightwatchman gave a concert for the protesters</a></li>
+</ul>
+<div>
+<div id="attachment_1042" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/nightwatchman-boss.jpg"><img class="size-medium wp-image-1042" title="The Nightwatchman &amp; The Boss" src="http://sixgun.org/files/nightwatchman-boss-250x250.jpg" alt="" width="250" height="250" /></a><p class="wp-caption-text">The Nightwatchman &amp; The Boss</p></div>
+</div>
+<p><strong>0:14:48 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Sabayon-10-introduces-MATE-edition-1709361.html">Sabayon 10</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Parted-Magic-update-includes-GParted-LVM-support-1706323.html">Parted Magic 2012_09_12</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Piwik-1-8-4-slashes-memory-usage-1709268.html">Piwik 1.8.4</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Version-2-6-0-of-Avidemux-video-editor-released-1705434.html">Avidemux 2.6.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Chrome-for-Android-update-strengthens-sandbox-1706836.html">Chrome for Android update strengthens sandbox</a></li>
+<li><a href="http://www.h-online.com/open/news/item/First-release-candidate-for-Samba-4-is-available-1708247.html">Samba 4 RC1</a></li>
+<li>Happy birthday, <a href="http://www.jonobacon.org/">Jono Bacon</a>!</li>
+<li><a href="http://www.h-online.com/open/news/item/PyCon-UK-2012-schedule-published-1709084.html">PyCon UK 2012 schedule posted</a></li>
+<li><a href="http://www.h-online.com/open/news/item/LinuxCon-Europe-2012-schedule-announced-1706380.html">LinuxCon Europe 2012 schedule</a></li>
+<li><a href="http://www.h-online.com/security/news/item/GoDaddy-experiences-massive-outage-1704382.html">GoDaddy outage</a>, <a href="http://www.h-online.com/security/news/item/GoDaddy-says-outage-was-not-caused-by-a-hacker-attack-1705067.html">not due to hackers</a></li>
+<li>What’s App clusterfuck: <a href="http://www.h-online.com/security/news/item/WhatsApp-takes-the-lazy-route-to-authentication-1703628.html">Android app</a>, <a href="http://www.h-online.com/security/news/item/WhatsApp-allegedly-creates-overly-simple-passwords-under-iOS-too-1704972.html">iOS app</a>, <a href="http://www.h-online.com/security/news/item/WhatsApp-accounts-almost-completely-unprotected-1708545.html">general account security</a></li>
+<li><a href="http://www.h-online.com/security/news/item/EU-gets-Computer-Emergency-Response-Team-1705392.html">EU gets its own CERT</a></li>
+<li><a href="http://www.h-online.com/open/news/item/PHP-5-5-should-reduce-password-sloppiness-1707835.html">PHP 5.5 should reduce password sloppiness</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Federal-Commissioner-unable-to-audit-Federal-Trojan-source-1704460.html">German Federal Commissioner unable to audit Federal Trojan source code</a></li>
+<li><a href="http://www.h-online.com/open/news/item/VMware-now-an-OpenStack-Foundation-member-1704359.html">VMware now OpenStack Foundation member</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Italy-making-way-for-open-source-1709553.html">Italy passed open source requirement law</a></li>
+<li><a href="http://www.h-online.com/open/news/item/NVIDIA-to-maintain-Linux-drivers-for-GeForce-6-and-7-until-2017-1704721.html">NVIDIA to maintain Linux drivers for GeForce 6 and 7 until 2017</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Google-prevents-Acer-from-distributing-phones-with-Aliyun-OS-1709555.html">Google prevents Acer from distributing phones with Aliyun OS</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Red-Hat-uses-GPL-to-strike-back-in-patent-lawsuit-1709584.html">Red Hat uses GPL to strike back in patent lawsuit</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Hardware-Hacks-Raspberry-Pi-2-0-is-made-in-the-UK-KindleBerry-Pi-1704641.html">Raspberry Pi now made in the UK, KindleBerry Pi</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Opus-audio-codec-is-now-an-Internet-Standard-1705078.html">Opus becomes an Internet Standard</a></li>
+</ul>
+<p><strong>1:11:36 MICROWATCH</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/security/news/item/Fingerprint-reader-reveals-passwords-1704058.html">UPEK fingerprint reader leaks Windows passwords</a></li>
+</ul>
+<p><strong>1:16:18 INTERVIEW</strong></p>
+<p>We interview Kevin O&#8217;Brien about the <a href="http://ohiolinux.org/">Ohio Linux Fest</a>.</p>
+<p><strong>Ohio Linux Fest / </strong><strong>Columbus, Ohio — 28-30 September 2012</strong></p>
+<p><a href="http://sixgun.org/files/olf-2012.jpg"><img class="alignnone size-medium wp-image-1050" title="OLF 2012" src="http://sixgun.org/files/olf-2012-237x250.jpg" alt="" width="237" height="250" /></a></p>
+<p><strong>1:38:03 FEEDBACK</strong></p>
+<p>Supporters: Matthew Jelliman, Remy van Elst and everyone who flattr&#8217;d us</p>
+<ul>
+<li><strong>Kirk Richard Holz</strong> enjoys the show and would like us to get someone on to talk about quantum computing</li>
+<li><strong>Brian Cesar</strong> sends us a very nice thank you note</li>
+<li>We also got a very long email on the subject of Pussy Riot from Russian listener <strong>Alexander Loginov</strong></li>
+</ul>
+<div><strong> Song:</strong> <a href="http://www.youtube.com/watch?v=3nQwLlFF1As"><em>Shaved Off His Beard</em></a> by <a href="http://thebeardsblog.wordpress.com/">The Beards</a> (all rights reserved)</div>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=1032&amp;md5=9816c6bc50e88514987ee0d3ff586258" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-277/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-277%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+277+%26%238211%3B+Digital+Originals&amp;description=Uncut+video+version+of+this+episode+on+YouTube+0%3A00%3A57+INTRODUCTION+Some+current+affairs+talk%3A+The+Royals+are+suing+over+a+bunch+of+breasts%2C%C2%A0the+whole+muslim+world+is+in+flames+over...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws277.ogg" length="57917219" type="audio/ogg" />
+		<itunes:duration>1:55:58</itunes:duration>
+		<itunes:subtitle>GoDaddy fail, German Federal Commissioner prevented from looking at federal malware, Google threatens Acer, KindleBerry Pi, Red Hat uses the GPL to fight back in a patent lawsuit and we interview Kevin O’Brien about the Ohio Linux Fest</itunes:subtitle>
+		<itunes:summary>GoDaddy fail, German Federal Commissioner prevented from looking at federal malware, Google threatens Acer, KindleBerry Pi, Red Hat uses the GPL to fight back in a patent lawsuit and we interview Kevin O’Brien about the Ohio Linux Fest</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws277.ogg" fileSize="57917219" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 276 – Bum White</title>
+		<link>http://sixgun.org/linuxoutlaws-276/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-276</link>
+		<comments>http://sixgun.org/linuxoutlaws-276/#comments</comments>
+		<pubDate>Sat, 15 Sep 2012 15:16:44 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=996</guid>
+		<description><![CDATA[Fab is back from holiday, Firefox 15 is out, Java is pwned, Fedora 18 is postponed (again), Diaspora is fail and Linux Mint founder Clem calls Nautilus a catastrophe]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=TapifLd-5D0">Uncut video version of this episode on YouTube</a></p>
+<p><strong>0:02:02 INTRODUCTION</strong></p>
+<ul>
+<li><a href="http://barcampblackpool.com/">Barcamp Blackpool</a></li>
+<li><a href="http://www.pyconuk.org/">PyCon UK</a></li>
+<li>Buy <a href="http://www.linuxformat.com/">Linux Format</a> 163 for some awesome OggCamp goodness</li>
+<li><a href="http://youtu.be/o66FUc61MvU">Rap News 15</a> feat. George Torwell</li>
+</ul>
+<p><strong>0:11:51 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Tiny-Core-4-6-makes-finding-fast-mirrors-easier-1677439.html">Tiny Core 4.6 makes finding fast mirrors easier</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Linux-From-Scratch-7-2-relies-on-latest-GCC-1697620.html">Linux from Scratch 7.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/openSUSE-12-2-arrives-with-Linux-3-4-and-GRUB-2-0-1699225.html">openSUSE 12.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/SUSE-releases-OpenStack-powered-cloud-distribution-1695250.html">SUSE Cloud 1.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/SystemRescueCd-3-0-0-introduces-support-for-modules-1698402.html">SystemRescueCd 3.0.0 introduces support for modules</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Firefox-15-for-desktop-and-Android-released-1677483.html">Firefox 15</a>; <a href="http://www.h-online.com/open/news/item/Mozilla-previews-command-line-in-Firefox-16-Beta-1696375.html">Mozilla previews &#8220;command line&#8221; in Firefox 16 Beta</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Open-webOS-Beta-arrives-ready-for-developers-1697732.html">Open WebOS beta</a></li>
+<li><a href="http://www.h-online.com/open/news/item/KDE-delivers-first-KDE-SC-4-9-update-1701177.html">KDE 4.9</a></li>
+<li><a href="http://www.h-online.com/open/news/item/PostgresSQL-9-2-works-faster-and-smarter-1703901.html">PostgresSQL 9.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/X-Server-1-13-has-better-hybrid-graphics-support-1701627.html">X Server 1.13</a></li>
+<li><a href="http://www.h-online.com/open/news/item/QEMU-1-2-0-improves-live-migration-1701730.html">QEMU 1.2.0 improves live migration</a></li>
+<li><a href="http://www.h-online.com/open/news/item/WordPress-3-4-update-fixes-security-vulnerabilities-1702501.html">WordPress 3.4.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Open-Recall-FreedomBox-SANE-Stellarium-and-Audacity-1678146.html">FreedomBox 0.1, SANE 1.0.23, Stellarium 0.11.4, Audacity 2.0.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Open-Recall-Knoppix-TurboLinux-WattOS-and-Haiku-1697730.html">Knoppix 7.0.4, Turbolinux 12.5, WattOS R6, Haiku 64-bit</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Mandriva-specialist-ROSA-releases-enterprise-distribution-1698746.html">ROSA Enterprise Linux Server</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Mageia-3-Alpha-1-brings-usr-merge-1703662.html">Mageia 3 Alpha 1 brings /usr/ merge</a></li>
+<li><a href="http://www.h-online.com/security/features/The-new-Java-0day-examined-1677789.html">The new Java 0Day examined</a>; <a href="http://www.h-online.com/open/news/item/Oracle-releases-emergency-fixes-for-Java-0day-Update-1696132.html">fixes released</a>; <a href="http://www.h-online.com/security/news/item/Latest-Java-sandbox-is-still-vulnerable-1697550.html">latest Java sandbox is still vulnerable</a>; <a href="http://www.h-online.com/security/news/item/Oracle-knew-of-Java-vulnerabilities-says-researcher-1696072.html">Oracle knew of Java vulnerabilities says researcher</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Google-acquires-VirusTotal-1703283.html">Google acquires VirusTotal</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Fedora-18-postponed-a-third-time-1702625.html">Fedora 18 postponed a third time</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Apache-ignores-Internet-Explorer-10-s-do-not-track-header-1703392.html">Apache ignores Internet Explorer 10&#8242;s do-not-track header</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Raspberry-Pi-MPEG-2-and-VC-1-licences-available-1676578.html">Raspberry Pi: MPEG-2 and VC-1 licences available</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Ubuntu-to-drop-alternate-installer-1676906.html">Ubuntu to drop alternate installer</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Diaspora-social-network-to-be-a-community-project-1677021.html">Diaspora social network to be a community project</a>; <a href="http://www.h-online.com/open/features/Learning-from-Diaspora-1697395.html">Learning from Diaspora</a></li>
+<li><a href="http://www.h-online.com/open/news/item/OpenIndiana-project-leader-steps-down-1695804.html">OpenIndiana project leader steps down</a></li>
+<li><a href="http://www.h-online.com/open/news/item/White-House-open-sources-its-mobile-site-and-apps-1698985.html">White House open sources its mobile site and apps</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Linux-Mint-founder-calls-Nautilus-3-6-a-catastrophe-1699677.html">Linux Mint founder calls Nautilus 3.6 &#8220;a catastrophe&#8221;</a></li>
+</ul>
+<div>
+<div id="attachment_1007" class="wp-caption alignnone" style="width: 260px"><a href="http://sixgun.org/files/BumWhite.png"><img class="size-medium wp-image-1007" title="Bum White" src="http://sixgun.org/files/BumWhite-250x176.png" alt="" width="250" height="176" /></a><p class="wp-caption-text">Bum White &#8211; it makes your bum white!</p></div>
+</div>
+<p><strong>0:59:37 MICROWATCH</strong></p>
+<ul>
+<li><strong> </strong><a href="http://www.h-online.com/security/news/item/Pre-release-version-of-Windows-8-contains-Flash-hole-1703494.html">Pre-release version of Windows 8 contains Flash hole</a></li>
+</ul>
+<p><strong>1:01:36 FEEDBACK</strong></p>
+<p>Supporters: Evgeny Kuznetsov, Eric Crampton, Mike Bickerton and everyone who flattr’d us — thanks to all of you!</p>
+<ul>
+<li><strong>Michael Hanke</strong> asks us to mention the <a href="http://mail.scipy.org/pipermail/ipython-dev/2012-August/010135.html">death of John Hunter</a>, the author of Python&#8217;s matplotlib — there is a <a href="http://numfocus.org/johnhunter">fundraising effort</a> to help his family ensure education and support for his three daughters</li>
+<li><strong>Evgeny Kuznetsov</strong> was listening to <a href="http://sixgun.org/linuxoutlaws-275/">Episode 275</a> and tells us a horror story about RAO, Russia&#8217;s version on GEMA</li>
+<li><strong>Nehemiah Dacres</strong> wrote to tell us that Yorba, makers of Shotwell are working on <a href="http://yorba.org/geary/">a new email client</a></li>
+<li><strong>Gary </strong>wrote to tell us that openSUSE 12.2 is out and that he’s upgraded from 12.1 without a problem</li>
+</ul>
+<p><strong>Song: </strong><a href="http://www.jamendo.com/en/track/147219/sally-anne"><em>Sally Anne</em></a> by <a href="http://www.myspace.com/theacousticals">The Acousticals</a> (licensed <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA 3.0</a>)</p>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=996&amp;md5=52f95fffae30a7f3524420dcec232e71" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-276/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-276%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+276+%26%238211%3B+Bum+White&amp;description=Uncut+video+version+of+this+episode+on+YouTube+0%3A02%3A02+INTRODUCTION+Barcamp+Blackpool+PyCon+UK+Buy+Linux+Format+163+for+some+awesome+OggCamp+goodness+Rap+News+15+feat.+George+Torwell+0%3A11%3A51...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws276.ogg" length="31724772" type="audio/ogg" />
+		<itunes:duration>1:21:36</itunes:duration>
+		<itunes:subtitle>Fab is back from holiday, Firefox 15 is out, Java is pwned, Fedora 18 is postponed (again), Diaspora is fail and Linux Mint founder Clem calls Nautilus a catastrophe</itunes:subtitle>
+		<itunes:summary>Fab is back from holiday, Firefox 15 is out, Java is pwned, Fedora 18 is postponed (again), Diaspora is fail and Linux Mint founder Clem calls Nautilus a catastrophe</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws276.ogg" fileSize="31724772" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+		<item>
+		<title>Linux Outlaws 275 – Man on the Moon</title>
+		<link>http://sixgun.org/linuxoutlaws-275/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=linuxoutlaws-275</link>
+		<comments>http://sixgun.org/linuxoutlaws-275/#comments</comments>
+		<pubDate>Wed, 29 Aug 2012 21:43:12 +0000</pubDate>
+		<dc:creator>linuxoutlaws@sixgun.org (Sixgun Productions)</dc:creator>
+				<category><![CDATA[Linux Outlaws]]></category>
+
+		<guid isPermaLink="false">http://sixgun.org/?p=974</guid>
+		<description><![CDATA[Google warns of using Adobe Reader on Linux, Dropbox tests two-factor authentication, Fedora 18 schedule slips by a week, Fab rants on GEMA,Twitter joins up with Linux Foundation and VMware applies to join OpenStack]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www.youtube.com/watch?v=dXewud7DsHE">Uncut video version of this episode on YouTube</a></p>
+<div id="attachment_976" class="wp-caption alignnone" style="width: 255px"><a href="http://sixgun.org/files/neil-armstrong.jpg"><img class="size-medium wp-image-976" title="Neil Armstrong" src="http://sixgun.org/files/neil-armstrong-245x250.jpg" alt="" width="245" height="250" /></a><p class="wp-caption-text">R.I.P. Neil Armstrong</p></div>
+<p><strong>0:02:00 INTRODUCTION</strong></p>
+<ul>
+<li>Hangouts on air now available in Germany — you can watch our show live from there&#8230;</li>
+<li><a href="http://www.youtube.com/watch?v=yyNLp3VCd0M">The Stephen Fry video from OggCamp 12</a></li>
+<li>Fab will be on holiday for a week, so we will be skipping an episode</li>
+</ul>
+<p><strong>0:12:36 RELEASES &amp; NEWS</strong></p>
+<ul>
+<li><a href="http://www.h-online.com/open/news/item/Canonical-releases-Ubuntu-12-04-1-LTS-1673617.html">Ubuntu 12.04.1 LTS</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Apache-Server-2-4-3-fixes-over-fifty-bugs-and-two-security-holes-1672035.html">Apache Server 2.4.3</a></li>
+<li><a href="http://www.h-online.com/open/news/item/VirtualBox-4-1-update-improves-stability-1672432.html">VirtualBox 4.1</a></li>
+<li><a href="http://www.h-online.com/open/news/item/LibreOffice-3-5-6-released-1668008.html">LibreOffice 3.5.6</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Apache-OpenOffice-3-4-1-adds-languages-stability-and-performance-1674083.html">Apache OpenOffice 3.4.1</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Banshee-media-player-improves-Mac-OS-X-support-1673736.html">Banshee 2.5.0</a></li>
+<li><a href="http://www.h-online.com/open/news/item/GIMP-2-8-2-fixes-bugs-in-preparation-for-official-Mac-app-1675519.html">GIMP 2.8.2</a></li>
+<li><a href="http://www.h-online.com/open/news/item/FlightGear-2-8-0-has-a-more-realistic-world-1673998.html">FlightGear 2.8.0</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Warning-on-critical-Java-hole-1676219.html">Warning on critical Java hole</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Google-warns-of-using-Adobe-Reader-particularly-on-Linux-1668153.html">Google warns of using Adobe Reader &#8211; particularly on Linux</a></li>
+<li><a href="http://www.h-online.com/security/news/item/Dropbox-tests-two-factor-authentication-1676276.html">Dropbox tests two-factor authentication</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Gericht-bestaetigt-GEMA-Vermutung-1676570.html">German court upholds “GEMA Vermutung”</a> (German link)</li>
+<li><a href="http://www.h-online.com/open/news/item/Fedora-18-schedule-slips-by-a-week-1673640.html">Fedora 18 schedule slips by a week</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Hardware-Hacks-OggBox-lunar-rover-and-Pwdr-3D-printer-1668748.html">The OggBox</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Compiz-now-supports-OpenGL-ES-2-0-1674605.html">Compiz now supports OpenGL ES 2.0</a>; <a href="http://www.h-online.com/open/news/item/Unity-2D-dropped-from-Ubuntu-12-10-Quantal-Quetzal-1669508.html">Unity 2D dropped from Ubuntu 12.10 &#8220;Quantal Quetzal&#8221;</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Twitter-joins-up-with-Linux-Foundation-1675471.html">Twitter joins up with Linux Foundation</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Google-Apple-vs-Samsung-does-not-relate-to-Android-s-core-1675946.html">Google: Apple vs Samsung does not relate to Android&#8217;s core</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Arch-Linux-proposes-switch-to-systemd-1667815.html">Arch Linux proposes switch to systemd</a>; <a href="http://www.h-online.com/open/news/item/Systemd-to-secure-system-log-information-against-attacks-1671165.html">Systemd to secure system log information against attacks</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Oracle-secrecy-threatens-open-MySQL-development-1670579.html">Oracle secrecy threatens open MySQL development</a></li>
+<li><a href="http://www.h-online.com/open/news/item/The-White-House-open-sources-its-petition-platform-1674393.html">The White House open sources its petition platform</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Calligra-plans-new-professional-writing-program-1670418.html">Calligra plans new professional writing program</a></li>
+<li><a href="http://www.h-online.com/open/news/item/Multi-channel-audio-support-for-Wine-1670282.html">Multi-channel audio support for Wine</a></li>
+<li><a href="http://www.h-online.com/open/news/item/VMware-applies-to-join-OpenStack-1675891.html">VMware applies to join OpenStack</a></li>
+</ul>
+<p><strong>1:17:49 FEEDBACK</strong></p>
+<p>Supporters: Michael Lamb, Martin Bastow and Ben Farnfield — from Flattr: renhuh, johanv, Mattias Ohlsson, Bernd Schlapsi and viis</p>
+<ul>
+<li><strong>Matthias</strong> recommends the <a href="http://www.claws-mail.org/">Claws Mail</a> email client</li>
+<li><strong>Georg Ottinger</strong> tells us about <a href="http://oggstreamer.wordpress.com/">OggStreamer</a>, a standalone device for streaming radio shows</li>
+<li><strong>Jake Roberts </strong>sends us a link to <a href=" http://www.element14.com/community/docs/DOC-47081/l/episode-45-see-ben-hecks-raspberry-pi-build-episode">a video</a> of Ben Heck building a BBC Micro-style case for the Raspberry Pi</li>
+</ul>
+<p>We had other emails from: Steven Dorries, Gary and Ryan</p>
+<p><strong>Song: </strong><a href="http://youtu.be/hlD7hIxE4lg"><em>Sharp Dressed Man</em></a> by <a href="http://thebeardsblog.wordpress.com/">The Beards</a> (all rights reserved)</p>
+<div id="attachment_988" class="wp-caption alignnone" style="width: 218px"><a href="http://sixgun.org/files/end-of-the-world-tour.jpg"><img class="size-medium wp-image-988" title="The End of the World" src="http://sixgun.org/files/end-of-the-world-tour-208x250.jpg" alt="" width="208" height="250" /></a><p class="wp-caption-text">The End of the World (for Beardless People)</p></div>
+ <p><a href="http://sixgun.org/?flattrss_redirect&amp;id=974&amp;md5=10a78678c71104a575731ff452b74e19" title="Flattr" target="_blank"><img src="http://roland.sixgun.org/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://sixgun.org/linuxoutlaws-275/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=fabsh&amp;url=http%3A%2F%2Fsixgun.org%2Flinuxoutlaws-275%2F&amp;language=en_GB&amp;category=audio&amp;title=Linux+Outlaws+275+%26%238211%3B+Man+on+the+Moon&amp;description=Uncut+video+version+of+this+episode+on+YouTube+0%3A02%3A00+INTRODUCTION+Hangouts+on+air+now+available+in+Germany+%E2%80%94%C2%A0you+can+watch+our+show+live+from+there%26%238230%3B+The+Stephen+Fry+video+from...&amp;tags=sixgun%2Cproductions" type="text/html" />
+		<enclosure url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws275.ogg" length="45011964" type="audio/ogg" />
+		<itunes:duration>1:29:53</itunes:duration>
+		<itunes:subtitle>Google warns of using Adobe Reader on Linux, Dropbox tests two-factor authentication, Fedora 18 schedule slips by a week, Fab rants on GEMA,Twitter joins up with Linux Foundation and VMware applies to join OpenStack</itunes:subtitle>
+		<itunes:summary>Google warns of using Adobe Reader on Linux, Dropbox tests two-factor authentication, Fedora 18 schedule slips by a week, Fab rants on GEMA,Twitter joins up with Linux Foundation and VMware applies to join OpenStack</itunes:summary>
+		<itunes:author>fab@sixgun.org</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	<media:content url="http://traffic.libsyn.com/linuxoutlaws/linuxoutlaws275.ogg" fileSize="45011964" type="audio/ogg" /><itunes:keywords>linux,opensource,open,source,free,freesoftware,unix,bsd,outlaws</itunes:keywords></item>
+	<media:credit role="author">Sixgun Productions</media:credit><media:rating>adult</media:rating><media:description type="plain">The hardest-hitting Linux podcast around</media:description></channel>
+</rss>
