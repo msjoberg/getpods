@@ -10,8 +10,64 @@ debug = True
 
 #------------------------------------------------------------------------------
 
+class Item(object):
+    """
+    Class encapsulating the information for a single podcast item,
+    i.e. a single episode.  Also contains a static cache keeping track
+    of already downloaded episodes.
+    """
+
+    cache = {}
+    cache_read = False
+
+    def __init__(self, item_data):
+        if not Item.cache_read:
+            Item.read_cache()
+
+        self.data = item_data
+
+    def is_new(self):
+        return self.guid() not in Item.cache
+
+    def mark_as_seen(self):
+        Item.cache[self.guid()] = 1
+
+    def guid(self):
+        """Method that determines and return a unique identifier of
+        the item."""
+
+        return self.data["guid"]
+
+            # print(item["guid"])
+            # for media in item["media_content"]:
+            #     print(" *", media["url"])
+
+    @staticmethod
+    def save_cache():
+        """Saves cache from memory to file."""
+
+        with open("cache", "w") as fp:
+            for guid in Item.cache:
+               fp.write(guid+"\n")
+
+    @staticmethod
+    def read_cache():
+        """Reads old cache from file to memory."""
+
+        try:
+            with open("cache") as fp:
+                for line in fp:
+                    Item.cache[line.rstrip()] = 1
+        except:
+            pass
+        Item.cache_read = True
+
+#------------------------------------------------------------------------------
+
 class Feed(object):
-    """Class encapsulating the information for a podcast feed."""
+    """
+    Class encapsulating the information for a podcast feed.
+    """
 
     def __init__(self, url, dirname):
         self.url = url
@@ -19,6 +75,21 @@ class Feed(object):
 
         if debug:
             print("Feed:", dirname, "["+url+"]")
+
+    def update(self):
+        feed_data = feedparser.parse(self.url)
+
+        feed_title = feed_data["channel"]["title"]
+        print(" * Updating", feed_title)
+
+        for item_data in feed_data["items"]:
+            item = Item(item_data)
+            if item.is_new():
+                print(item.guid())
+            item.mark_as_seen()
+
+        Item.save_cache()
+
 
 #------------------------------------------------------------------------------
 
@@ -32,6 +103,7 @@ def read_urls(urls_fname):
 
     For example:
     http://faif.us/feeds/cast-ogg/ faif
+
     """
     feed_list = []
     
@@ -46,31 +118,11 @@ def read_urls(urls_fname):
 
 #------------------------------------------------------------------------------
 
-def update_feed(feed_url):
-    feed = feedparser.parse(feed_url)
-
-    feed_title = feed["channel"]["title"]
-    print(feed_title)
-
-    for item in feed["items"]:
-        print(item["guid"])
-        for media in item["media_content"]:
-            print(" *", media["url"])
-#    pprint(item)
-
-#------------------------------------------------------------------------------
-
-# $ ./getpods.py
-# for each feed:
-#   update_feed
-#   for each new item in feed:
-#     add to list of new items
-
 def main():
     feed_list = read_urls("urls-test")
 
     for feed in feed_list:
-        update_feed(feed.url)
+        feed.update()
 
 #------------------------------------------------------------------------------
 
