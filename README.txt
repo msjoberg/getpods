@@ -11,10 +11,16 @@ podcast feed with the following format:
 
 [Q] Maybe have a setting for always download or always ask for each podcast?
 
-    ./getpods.py
+    ./getpods.py update
 
 Should update all feeds and make a list of new episodes. Those that
 should be asked about are presented interactively at the end.
+
+Updating Free as in Freedom ...
+Updating Linux Outlaws ...
+
+New episodes found:
+- 
 
 * Implementation.
 
