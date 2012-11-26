@@ -251,13 +251,14 @@ def getpods(action, podcasts_dir, urls_filename):
             download_items.append(item)
         else:
             query_items.append(item)
-            
-    for item in query_items:
-        print("\n* [", item.feed.title(), "] ", item.title(), sep='')
-        print(item.summary)
-        answer = raw_input('Download this episode? [Y/n] ')
-        if answer.lower() != 'n':
-            download_items.append(item)
+
+    if action != 'auto':
+        for item in query_items:
+            print("\n* [", item.feed.title(), "] ", item.title(), sep='')
+            print(item.summary)
+            answer = raw_input('Download this episode? [Y/n] ')
+            if answer.lower() != 'n':
+                download_items.append(item)
 
     if not download_items:
         return
@@ -298,6 +299,10 @@ def main():
     config.read(config_filename)
     podcasts_dir = os.path.expanduser(config.get("general", "podcasts_dir"))
 
+    if not os.path.exists(podcasts_dir):
+        print("Could not find podcasts_dir="+podcasts_dir)
+        sys.exit(1)
+
     urls_filename = podcasts_dir+"/urls"
     if not os.path.exists(urls_filename):
         print("There should be a file [{}] with a line for each podcast feed "
@@ -311,15 +316,25 @@ def main():
               "each new episode.\n")
         sys.exit(1)
 
-    action = "update"
+    action = "help"
     
     if len(sys.argv) > 1:
         action = sys.argv[1]
 
-    supported_actions = ["update", "catchup", "newest"]
+    supported_actions = ["all", "auto", "catchup", "newest"]
     if action not in supported_actions:
-        print('"{}" is not a supported action. Try one of: '.format(action),
-              ", ".join(supported_actions), ".", sep='')
+        print("Usage:", sys.argv[0], "[action]\n")
+        print("Where [action] is one of \"", '", "'.join(supported_actions),
+              "\".", sep='')
+        print("All actions start by updating the feeds and detecting new "
+              "episodes.\n")
+        print("all      - downloads all new episodes, queries for episodes\n"
+              "           from feeds marked with a question mark (?).")
+        print("auto     - downloads only episodes for feeds without (?).\n")
+        print("newest   - downloads at most one new episode from each podcast\n"
+              "           feed,")
+        print("catchup  - marks all new episodes as seen, without downloading\n"
+              "           anything.")
         sys.exit(1)
         
     getpods(action, podcasts_dir, urls_filename)
