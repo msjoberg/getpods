@@ -277,6 +277,9 @@ def getpods(action, podcasts_dir, urls_filename):
             answer = raw_input('Download this episode? [Y/n] ')
             if answer.lower() != 'n':
                 download_items.append(item)
+            else:
+                item.mark_as_seen()
+                Item.save_cache()
 
     if not download_items:
         return
@@ -297,8 +300,8 @@ def getpods(action, podcasts_dir, urls_filename):
         download_url(item.download_url(), target)
         print("  =>", target)
         item.mark_as_seen()
+        Item.save_cache()
 
-    Item.save_cache()
 
 #------------------------------------------------------------------------------
 
