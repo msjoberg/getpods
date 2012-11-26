@@ -1,34 +1,33 @@
 * Usage, configuration
 
-First create a file called "urls" which contains one line for each
-podcast feed with the following format:
+You need a directory for your podcasts, e.g. ~/Podcasts or directly on
+your mounted media player (like I have).  You should make a
+configuration called ~/.getpods that points to this directory.  There
+should be a file getpods.sample.conf distributed together with this
+script that you can copy to ~/.getpods and modify.
+
+In the podcast_dir directory, create a file called "urls" which
+contains one line for each podcast feed with the following format:
 
     # comments preceeded by hash
-    url directory_name
+    url directory_name [?]
 
-    For example:
+For example:
+
+    # These are my awesome podcast feeds
     http://faif.us/feeds/cast-ogg/ faif
+    http://hackerpublicradio.org/hpr_ogg_rss.php hpr ?
 
-[Q] Maybe have a setting for always download or always ask for each podcast?
+The question mark is for feeds where the program should query about
+each new episode.  Other feeds have new episodes automatically
+downloaded.
 
-    ./getpods.py update
 
-Should update all feeds and make a list of new episodes. Those that
-should be asked about are presented interactively at the end.
+* Implementation 
 
-Updating Free as in Freedom ...
-Updating Linux Outlaws ...
+It's a simple Python script, that requires the feedparser and pycurl
+modules.  In Debian this should mean installing the packages
+`python-feedparse` and `python-pycurl`.
 
-New episodes found:
-- 
-
-* Implementation.
-
-cache file, one line for each unique item guid/id
-read in store as hash
-
-fetch feeds, compare with hash, if new add url to list of new eps
-
-ask about some eps, if answer is no remove and place in cache list
-
-download all in new list, place in cache after successful dl
+Episodes that have been downloaded or otherwise marked as "seen" are
+registered in a file called "cache" in the podcast_dir.
