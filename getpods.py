@@ -34,8 +34,7 @@ config_filename = "~/.getpods"
 #------------------------------------------------------------------------------
 
 class Item(object):
-    """
-    Class encapsulating the information for a single podcast item,
+    """Class encapsulating the information for a single podcast item,
     i.e. a single episode.  Also contains a static cache keeping track
     of already downloaded episodes.
     """
@@ -59,6 +58,8 @@ class Item(object):
         summ = re.sub('\n+', '\n', summ)
         self.summary = summ
 
+    def __str__(self):
+        return "[{0}] {1}".format(self.feed.title(), self.title())
 
     def is_new(self):
         return self.guid() not in Item.cache
@@ -236,15 +237,20 @@ def getpods(action, podcasts_dir, urls_filename):
     Item.setup_cache(podcasts_dir)
     feed_list = read_urls(urls_filename)
 
+    # if action is 'newest' download only at most one episode from
+    # each feed
     newest = 0
     if action == 'newest':
         newest = 1
+
+    # check for new items in each feed and append to new_items
     new_items = []
     for feed in feed_list:
         feed_items = feed.update(newest)
         if feed_items:
             new_items.extend(feed_items)
 
+    # report new items, if any
     n = len(new_items)
     if n==0:
         print("No new episodes found.")
@@ -255,13 +261,23 @@ def getpods(action, podcasts_dir, urls_filename):
     else:
         print(n, "new episodes found!")
 
+    non_auto_info = ""
+    if action == 'auto':
+        non_auto_info = "[not downloaded]"
+    for item in new_items:
+        print("*", item, "[auto]" if item.auto_download() else non_auto_info)
+
+    # if we are in catchup mode, mark all as seen and be done with it
     if action == 'catchup':
         print("\nMarking all episodes as seen...")
+        print("(You can always undo this by editing the cache file.)")
         for item in new_items:
             item.mark_as_seen()
         Item.save_cache()
         return
 
+    # if episodes are from an auto download feed put them directly to
+    # download list, otherwise to list of episodes for user query
     query_items = []
     download_items = []
     for item in new_items:
@@ -270,9 +286,10 @@ def getpods(action, podcasts_dir, urls_filename):
         else:
             query_items.append(item)
 
+    # unless we are in auto mode, query about each non-auto episode
     if action != 'auto':
         for item in query_items:
-            print("\n* [", item.feed.title(), "] ", item.title(), sep='')
+            print("\n*", item)
             print(item.summary)
             answer = raw_input('Download this episode? [Y/n] ')
             if answer.lower() != 'n':
@@ -281,21 +298,16 @@ def getpods(action, podcasts_dir, urls_filename):
                 item.mark_as_seen()
                 Item.save_cache()
 
-    if not download_items:
-        return
-
-    print("\nDownloading episodes...")
+    # download all episodes in the download list
+    if download_items:
+        print("\nDownloading episodes...")
     for item in download_items:
-        print("* [", item.feed.title(), "] ", item.title(), sep='')
+        print("*", item)
         
         target_dir = podcasts_dir+"/"+item.feed.dirname
         if not os.path.exists(target_dir):
             os.mkdir(target_dir)
-
         target = target_dir + "/" + item.download_localname()
-
-        # print("download_url=",item.download_url())
-        # print("download_localname=",item.download_localname())
 
         download_url(item.download_url(), target)
         print("  =>", target)
