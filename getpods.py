@@ -59,7 +59,8 @@ class Item(object):
         self.summary = summ
 
     def __str__(self):
-        return "[{0}] {1}".format(self.feed.title(), self.title())
+        return (u"[{0}] {1}".format(self.feed.title(),
+                                    self.title())).encode(sys.stdout.encoding)
 
     def is_new(self):
         return self.guid() not in Item.cache
