@@ -1,3 +1,8 @@
+* What is getpods
+
+getpods.py is a very simple command line podcast client in Python, 
+that I made for my personal use.
+
 * Usage, configuration
 
 You need a directory for your podcasts, e.g. ~/Podcasts or directly on
