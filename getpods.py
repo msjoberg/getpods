@@ -353,7 +353,7 @@ def main():
               "each new episode.\n")
         sys.exit(1)
 
-    action = "help"
+    action = "all"
     
     if len(sys.argv) > 1:
         action = sys.argv[1]
@@ -365,13 +365,13 @@ def main():
               "\".", sep='')
         print("All actions start by updating the feeds and detecting new "
               "episodes.\n")
-        print("all      - downloads all new episodes, queries for episodes\n"
-              "           from feeds marked with a question mark (?).")
-        print("auto     - downloads only episodes for feeds without (?).\n")
-        print("newest   - downloads at most one new episode from each podcast\n"
-              "           feed,")
-        print("catchup  - marks all new episodes as seen, without downloading\n"
-              "           anything.")
+        print("all [default] - downloads all new episodes, queries for \n"
+              "                episodes from feeds marked with \"?\".")
+        print("auto          - downloads only episodes for feeds without (?).\n")
+        print("newest        - downloads at most one new episode from each\n"
+              "                podcast feed,")
+        print("catchup       - marks all new episodes as seen, without\n"
+              "                downloading anything.")
         sys.exit(1)
         
     getpods(action, podcasts_dir, urls_filename)
