@@ -59,8 +59,11 @@ class Item(object):
         self.summary = summ
 
     def __str__(self):
+        enc = sys.stdout.encoding
+        if not enc:
+            enc = "UTF-8"
         return (u"[{0}] {1}".format(self.feed.title(),
-                                    self.title())).encode(sys.stdout.encoding)
+                                    self.title())).encode(enc)
 
     def is_new(self):
         return self.guid() not in Item.cache
