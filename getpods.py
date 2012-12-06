@@ -308,13 +308,17 @@ def getpods(action, podcasts_dir, urls_filename):
     for item in download_items:
         print("*", item)
         
-        target_dir = podcasts_dir+"/"+item.feed.dirname
-        if not os.path.exists(target_dir):
-            os.mkdir(target_dir)
-        target = target_dir + "/" + item.download_localname()
+        dl_url = item.download_url()
 
-        download_url(item.download_url(), target)
-        print("  =>", target)
+        if not dl_url:
+            print("No download url for this item!")
+        else:
+            target_dir = podcasts_dir+"/"+item.feed.dirname
+            if not os.path.exists(target_dir):
+                os.mkdir(target_dir)
+            target = target_dir + "/" + item.download_localname()
+            download_url(dl_url, target)
+            print("  =>", target)
         item.mark_as_seen()
         Item.save_cache()
 
