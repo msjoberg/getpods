@@ -112,7 +112,7 @@ class Item(object):
         """Saves cache from memory to file."""
 
         with open(Item.cache_file, "w") as fp:
-            for guid in Item.cache:
+            for guid in sorted(Item.cache):
                fp.write(guid+"\n")
 
     @staticmethod
