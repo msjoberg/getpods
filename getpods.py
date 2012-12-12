@@ -30,6 +30,7 @@ import re
 #------------------------------------------------------------------------------
 
 config_filename = "~/.getpods"
+max_summary_lines = 20
 
 #------------------------------------------------------------------------------
 
@@ -294,7 +295,11 @@ def getpods(action, podcasts_dir, urls_filename):
     if action != 'auto':
         for item in query_items:
             print("\n*", item)
-            print(item.summary)
+            sumlines = item.summary.splitlines()
+            summary = "\n".join(sumlines[0:max_summary_lines])
+            if len(sumlines) > max_summary_lines:
+                summary += "\n..."
+            print(summary)
             answer = raw_input('Download this episode? [Y/n] ')
             if answer.lower() != 'n':
                 download_items.append(item)
