@@ -204,7 +204,7 @@ old_output = ''
 def progress_download(download_t, download_d, upload_t, upload_d):
     global old_output
 
-    if download_t < 1000:
+    if download_t < 1000 or not os.isatty(1):
         return
 
     output = "{:.2f}MB of {:.2f}MB ({:.2%})".format(download_d/1024/1024,
