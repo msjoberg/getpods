@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 
 # Copyright (c) 2012 Mats Sjöberg
@@ -22,7 +22,7 @@ from __future__ import print_function
 
 import feedparser
 import pycurl
-import ConfigParser
+import ConfigParser as configparser
 import os
 import sys
 import re
