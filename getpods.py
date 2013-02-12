@@ -345,7 +345,7 @@ def getpods(action, podcasts_dir, urls_filename):
 #------------------------------------------------------------------------------
 
 def main():
-    global config_filename
+    global config_filename, max_summary_lines
 
     config_filename = os.path.expanduser(config_filename)
     if not os.path.exists(config_filename):
@@ -355,9 +355,12 @@ def main():
                                      "getpods.sample.conf"))
         sys.exit(1)
     
-    config = ConfigParser.ConfigParser()
+    config = configparser.ConfigParser()
     config.read(config_filename)
     podcasts_dir = os.path.expanduser(config.get("general", "podcasts_dir"))
+
+    if config.has_option("general", "max_summary_lines"):
+        max_summary_lines = config.getint("general", "max_summary_lines")
 
     if not os.path.exists(podcasts_dir):
         print("Could not find podcasts_dir="+podcasts_dir)
