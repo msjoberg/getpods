@@ -34,6 +34,11 @@ max_summary_lines = 20
 
 #------------------------------------------------------------------------------
 
+def clear_screen():
+    os.system('clear')
+
+#------------------------------------------------------------------------------
+
 class Item(object):
     """Class encapsulating the information for a single podcast item,
     i.e. a single episode.  Also contains a static cache keeping track
@@ -302,7 +307,8 @@ def getpods(action, podcasts_dir, urls_filename):
     # unless we are in auto mode, query about each non-auto episode
     if action != 'auto':
         for item in query_items:
-            print("\n*", item)
+            #clear_screen()
+            print("\n\n*", item)
             sumlines = item.summary.splitlines()
             summary = "\n".join(sumlines[0:max_summary_lines])
             if len(sumlines) > max_summary_lines:
