@@ -144,6 +144,11 @@ class Feed(object):
     def update(self, newest=0):
         self.data = feedparser.parse(self.url)
 
+        title = self.title()
+        if not title:
+            print("Error updating", self.url)
+            return []
+
         print("Updating", self.title(), "...")
 
         new_items = []
@@ -161,7 +166,10 @@ class Feed(object):
         return new_items
 
     def title(self):
-        return self.data["channel"]["title"]
+        if "title" in self.data["channel"]:
+            return self.data["channel"]["title"]
+        else:
+            return ""
 
 
 #------------------------------------------------------------------------------
