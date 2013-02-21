@@ -344,10 +344,11 @@ def getpods(action, podcasts_dir, urls_filename):
             if os.path.exists(target):
                 print(target, "already exists!")
                 print("WARNING: This file has already been downloaded! "
-                      "Please remove it first if you wish to redownload it!\n")
-                continue
-            download_url(dl_url, target)
-            print("  =>", target)
+                      "If you really wish to download it remove the file and "
+                      "remove this item ["+item.guid()+"] from the cache.\n")
+            else:
+                download_url(dl_url, target)
+                print("  =>", target)
         item.mark_as_seen()
         Item.save_cache()
 
