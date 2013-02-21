@@ -109,6 +109,15 @@ class Item(object):
         parts = dl_url.rpartition('/')
         return parts[2]
 
+    def print_summary(self):
+        #clear_screen()
+        print("\n\n*", self)
+        sumlines = self.summary.splitlines()
+        summary = "\n".join(sumlines[0:max_summary_lines])
+        if len(sumlines) > max_summary_lines:
+            summary += "\n..."
+        print(summary)
+
     @staticmethod
     def setup_cache(dir):
         Item.cache_file = dir+"/cache"
@@ -307,13 +316,7 @@ def getpods(action, podcasts_dir, urls_filename):
     # unless we are in auto mode, query about each non-auto episode
     if action != 'auto':
         for item in query_items:
-            #clear_screen()
-            print("\n\n*", item)
-            sumlines = item.summary.splitlines()
-            summary = "\n".join(sumlines[0:max_summary_lines])
-            if len(sumlines) > max_summary_lines:
-                summary += "\n..."
-            print(summary)
+            item.print_summary()
             answer = raw_input('Download this episode? [Y/n] ')
             if answer.lower() != 'n':
                 download_items.append(item)
@@ -330,12 +333,19 @@ def getpods(action, podcasts_dir, urls_filename):
         dl_url = item.download_url()
 
         if not dl_url:
-            print("No download url for this item!")
+            print("[No media file to download for this item!]")
+            print(item.summary+"\n")
         else:
             target_dir = podcasts_dir+"/"+item.feed.dirname
             if not os.path.exists(target_dir):
                 os.mkdir(target_dir)
             target = target_dir + "/" + item.download_localname()
+
+            if os.path.exists(target):
+                print(target, "already exists!")
+                print("WARNING: This file has already been downloaded! "
+                      "Please remove it first if you wish to redownload it!\n")
+                continue
             download_url(dl_url, target)
             print("  =>", target)
         item.mark_as_seen()
