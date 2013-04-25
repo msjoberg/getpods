@@ -324,6 +324,8 @@ def getpods(action, podcasts_dir, urls_filename):
                 item.mark_as_seen()
                 Item.save_cache()
 
+    num_downloaded = 0
+
     # download all episodes in the download list
     if download_items:
         print("\nDownloading episodes...")
@@ -348,10 +350,12 @@ def getpods(action, podcasts_dir, urls_filename):
                       "remove this item ["+item.guid()+"] from the cache.\n")
             else:
                 download_url(dl_url, target)
+                num_downloaded += 1
                 print("  =>", target)
         item.mark_as_seen()
         Item.save_cache()
 
+    return num_downloaded
 
 #------------------------------------------------------------------------------
 
@@ -411,7 +415,12 @@ def main():
               "                downloading anything.")
         sys.exit(1)
         
-    getpods(action, podcasts_dir, urls_filename)
+    nd = getpods(action, podcasts_dir, urls_filename)
+
+    if nd and config.has_option("general", "post_download_hook"):
+        post_download_hook = os.path.expanduser(config.get("general",
+                                                           "post_download_hook"))
+        os.system(post_download_hook)
 
 #------------------------------------------------------------------------------
 
