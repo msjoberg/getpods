@@ -1,7 +1,7 @@
 #!/usr/bin/env python2.7
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2012 Mats Sjöberg
+# Copyright (c) 2013 Mats Sjöberg
 
 # This file is part of the getpods programme.
 
