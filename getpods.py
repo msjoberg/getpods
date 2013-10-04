@@ -203,20 +203,33 @@ def read_urls(urls_fname):
     feed_list = []
     
     with open(urls_fname) as fp:
+        ln = 0
         for line in fp:
+            ln += 1
             if line[0] == '#':
                 continue
             parts = line.rstrip().split()
             do_auto = True
 
+            error = ""
             if len(parts) == 3:
                 mode = parts[2]
                 if mode == "?":
                     do_auto = False
                 else:
-                    print("Unknown mode (", mode, ") given for",
-                          parts[0])
-            feed_list.append(Feed(parts[0], parts[1], do_auto))
+                    error = 'unknown mode "' + mode + '", only "?" ' + \
+                            'is accepted at the moment'
+            elif len(parts) != 2:
+                error = "directory name missing"
+
+            if len(error) != 0:
+                print("ERROR in config file {0} on line {1},\n".
+                      format(urls_fname, ln, error) +
+                      error + ":\n\n--> " + line + 
+                      "\nCorrect format is: url dir [?]. "
+                      "I'm skipping this line until it has been fixed.\n")
+            else:
+                feed_list.append(Feed(parts[0], parts[1], do_auto))
 
     return feed_list
 
