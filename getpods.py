@@ -83,6 +83,11 @@ class Item(object):
 
         return self.data["guid"]
 
+    def author(self):
+        if "author" in self.data:
+            return self.data["author"]
+        return ""
+
     def title(self):
         return self.data["title"]
 
@@ -116,6 +121,9 @@ class Item(object):
         summary = "\n".join(sumlines[0:max_summary_lines])
         if len(sumlines) > max_summary_lines:
             summary += "\n..."
+        author = self.author()
+        if author != "":
+            summary = "Author: " + author + "\n" + summary
         print(summary)
 
     @staticmethod
