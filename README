@@ -1,17 +1,15 @@
-* What is getpods
-
 getpods.py is a very simple command line podcast client in Python, 
 that I made for my personal use.
 
-* Usage, configuration
+# Usage, configuration
 
-You need a directory for your podcasts, e.g. ~/Podcasts or directly on
-your mounted media player (like I have).  You should make a
-configuration called ~/.getpods that points to this directory.  There
+You need a directory for your podcasts, e.g. `~/Podcasts` or directly
+on your mounted media player (like I have). You should make a
+configuration called `~/.getpods` that points to this directory. There
 should be a file getpods.sample.conf distributed together with this
-script that you can copy to ~/.getpods and modify.
+script that you can copy to `~/.getpods` and modify.
 
-In the podcast_dir directory, create a file called "urls" which
+In the podcast_dir directory, create a file called `urls` which
 contains one line for each podcast feed with the following format:
 
     # comments preceeded by hash
@@ -28,7 +26,7 @@ each new episode.  Other feeds have new episodes automatically
 downloaded.
 
 
-* Implementation 
+# Implementation 
 
 It's a simple Python script, that requires the feedparser and pycurl
 modules.  In Debian this should mean installing the packages
